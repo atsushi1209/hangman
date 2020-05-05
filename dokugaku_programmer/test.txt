@@ -1,0 +1,2471 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="utf-8">
+<meta name="viewport" content="width=1000">
+<title>日経クロストレンド</title>
+<link rel="canonical" href="https://xtrend.nikkei.com/">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/2018/sp/favicon/web_clip.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/2018/favicon/favicon_32_32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/2018/favicon/favicon_16_16.png">
+<link rel="apple-touch-icon-precomposed" href="/images/2018/sp/favicon/web_clip.png" />
+<link rel="manifest" href="">
+<link rel="mask-icon" href="" color="#333333">
+<link rel="shortcut icon" href="/images/2018/favicon/icon.ico">
+<meta name="author" content="日経クロストレンド">
+<meta name="keywords" content="マーケティング戦略,市場創造,商品開発,デジタル,テクノロジー,日経 xTREND">
+<meta name="description" content="新市場を創る人のデジタル戦略メディア。">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:title" content="日経クロストレンド">
+<meta property="og:description" content="新市場を創る人のデジタル戦略メディア。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://xtrend.nikkei.com/">
+<meta property="og:image" content="https://xtrend.nikkei.com/images/2018/common/ogp_nikkeixtrend.png">
+<meta property="og:site_name" content="日経クロストレンド">
+<meta property="og:locale" content="ja_JP">
+<meta property="fb:app_id" content="328464884326786">
+<meta property="article:publisher" content="https://www.facebook.com/NIKKEIxTREND/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NIKKEIxTREND">
+<meta name="twitter:player" content="@NIKKEIxTREND">
+<meta name="bpcmstokenMydata" content="V2PAs6VSHmqTdOVs5PEUSWy063WCbTmOX06dXyM5WzBHy2uzNw7iXV2IY0iIDjb6%2BZ4ineXFgvcN%0D%0AmUxIDJ7TSOGajCl%2FlNhu42ZK3Cc2kc0%3D">
+<meta name="rhizome_token_auth" content="">
+<meta name="rhizome_token_get" content="hiQpKJZZ8PTJRUqnyE9JU5OtGes1UhZfyRAZ4qb43SBRJ%2BIpV4aL5%2FgT0FA2aDfSdXCrkpBTw2iG%0D%0AiYVCY4SpxzvsD1Q6hhznRMfm3tKk8TURc%2FmspUz4CA%3D%3D">
+<meta name="auth_for_rhizome" content=",">
+<!-- Start TagManager -->
+<script src="https://assets.adobedtm.com/570a621a24b47ab0c04225f491ed07679e91176f/satelliteLib-c5dd9befc4adb2c24f9e3fb7ab214908274f7852.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TDTQSZV');</script>
+<!-- End TagManager -->
+<!-- Start VWO Async Smartcode -->
+<script type='text/javascript'>
+window._vwo_code = window._vwo_code || (function(){
+var account_id=385272,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+is_spa=1,
+hide_element='body',
+
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document,code={use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){
+settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b=hide_element?hide_element+'{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}':'',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&f='+(+is_spa)+'&r='+Math.random());return settings_timer; }};window._vwo_settings_timer = code.init(); return code; }());
+</script>
+<!-- End VWO Async Smartcode -->
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+
+
+<script type='text/javascript'>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+ function retrieve(n){
+  var m, k='kx'+n;
+  if (window.localStorage) {
+   return window.localStorage[k] || "";
+  } else if (navigator.cookieEnabled) {
+   m = document.cookie.match(k+'=([^;]*)');
+   return (m && unescape(m[1])) || "";
+  } else {
+   return '';
+  }
+ }
+ Krux.user = retrieve('kuid');
+ Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<script type="text/javascript">
+var dag_adslots = [];
+  googletag.cmd.push(function() {
+   googletag.pubads().setTargeting('test','entrance');
+   googletag.pubads().setTargeting('NXRserial','704d06f400');
+   googletag.pubads().setTargeting('CMStheme','nxr_thm_top');
+   googletag.pubads().setTargeting('curtDN', location.hostname );
+   googletag.pubads().setTargeting('refDN', document.referrer.split('/')[2] || [] );
+   googletag.pubads().setTargeting('extPF', (function(q,k){var kv=q.split(k+"=")[1];if(kv){return kv.split("&")[0];}}(location.search,"extpf")) || []);
+   googletag.pubads().setTargeting('page', 'I');
+   googletag.pubads().setTargeting('CMSauth', 'NOTLOGIN');
+   googletag.pubads().setTargeting('a1', ['245277']);
+   googletag.pubads().setTargeting('Kr', Krux.segments );
+   googletag.pubads().setTargeting('NXR_mem', 'std');
+  
+dag_adslots.leaderboard = googletag.defineSlot('/54271731/nxr/leaderboard', [[728, 90], [728, 180], [970, 1], [970, 90], [970, 250]], 'div-gpt-ad-leaderboard').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.rectangle1 = googletag.defineSlot('/54271731/nxr/rectangle1', [[300, 250]], 'div-gpt-ad-rectangle1').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.rectangle2 = googletag.defineSlot('/54271731/nxr/rectangle2', [[300, 250], [300, 600]], 'div-gpt-ad-rectangle2').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_top_01 = googletag.defineSlot('/54271731/nxr/infeed/top', ['fluid'], 'div-gpt-ad-infeed_top_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_top_02 = googletag.defineSlot('/54271731/nxr/infeed/top', ['fluid'], 'div-gpt-ad-infeed_top_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_top_03 = googletag.defineSlot('/54271731/nxr/infeed/top', ['fluid'], 'div-gpt-ad-infeed_top_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_top_04 = googletag.defineSlot('/54271731/nxr/infeed/top', ['fluid'], 'div-gpt-ad-infeed_top_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_leaf_01 = googletag.defineSlot('/54271731/nxr/infeed/leaf', ['fluid'], 'div-gpt-ad-infeed_leaf_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_leaf_02 = googletag.defineSlot('/54271731/nxr/infeed/leaf', ['fluid'], 'div-gpt-ad-infeed_leaf_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_leaf_03 = googletag.defineSlot('/54271731/nxr/infeed/leaf', ['fluid'], 'div-gpt-ad-infeed_leaf_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.infeed_leaf_04 = googletag.defineSlot('/54271731/nxr/infeed/leaf', ['fluid'], 'div-gpt-ad-infeed_leaf_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.textad_01 = googletag.defineSlot('/54271731/nxr/textad', ['fluid'], 'div-gpt-ad-textad_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.textad_02 = googletag.defineSlot('/54271731/nxr/textad', ['fluid'], 'div-gpt-ad-textad_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.textad_03 = googletag.defineSlot('/54271731/nxr/textad', ['fluid'], 'div-gpt-ad-textad_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.textad_04 = googletag.defineSlot('/54271731/nxr/textad', ['fluid'], 'div-gpt-ad-textad_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.notice_01 = googletag.defineSlot('/54271731/nxr/notice', ['fluid'], 'div-gpt-ad-notice_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.notice_02 = googletag.defineSlot('/54271731/nxr/notice', ['fluid'], 'div-gpt-ad-notice_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.pickup_01 = googletag.defineSlot('/54271731/nxr/pickup', ['fluid'], 'div-gpt-ad-pickup_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.pickup_02 = googletag.defineSlot('/54271731/nxr/pickup', ['fluid'], 'div-gpt-ad-pickup_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.pickup_03 = googletag.defineSlot('/54271731/nxr/pickup', ['fluid'], 'div-gpt-ad-pickup_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.pickup_04 = googletag.defineSlot('/54271731/nxr/pickup', ['fluid'], 'div-gpt-ad-pickup_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+
+   googletag.pubads().disableInitialLoad();
+  googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    
+  });
+
+</script>
+<script type="text/javascript" src="/js/dag/2019/dfpCust.min.js" defer></script>
+
+<script type='text/javascript'>
+document.addEventListener('DOMContentLoaded', function() {
+      googletag.cmd.push(function () {
+          var dag_dC = new dag_dfpCust({
+              adSlots: [[dag_adslots.leaderboard, "n"], [dag_adslots.rectangle1, "n"], [dag_adslots.rectangle2, "inView", {trackId: "div-track-ad-rectangle2"}], [dag_adslots.infeed_top_01, "n"], [dag_adslots.infeed_top_02, "n"], [dag_adslots.infeed_top_03, "n"], [dag_adslots.infeed_top_04, "n"], [dag_adslots.infeed_leaf_01, "n"], [dag_adslots.infeed_leaf_02, "n"], [dag_adslots.infeed_leaf_03, "n"], [dag_adslots.infeed_leaf_04, "n"], [dag_adslots.textad_01, "n"], [dag_adslots.textad_02, "n"], [dag_adslots.textad_03, "n"], [dag_adslots.textad_04, "n"], [dag_adslots.notice_01, "n"], [dag_adslots.notice_02, "n"], [dag_adslots.pickup_01, "n"], [dag_adslots.pickup_02, "n"], [dag_adslots.pickup_03, "n"], [dag_adslots.pickup_04, "n"]],
+              IS_TIMEOUT: 17000,
+              TRACKTOP_DEFAULT: 250,
+              ASYNC: true
+          });
+      });
+})
+</script>
+<link rel="stylesheet" href="/css/2019/pc/all.css?20200406">
+</head>
+<body class="top notlogin">
+ <div id="wrapper">
+  <div class="status-nav" data-atlas-trackable="globalNavi">
+   <div class="inner">
+    <div class="flex-between">
+    <div class="status-nav-link">
+     <ul>
+      <li class="bpSiteNavi">
+       <label for="globalNaviStatus">日経BP<i class="icon icon-down-arrow"></i></label>
+       <input type="checkbox" id="globalNaviStatus">
+       <label class="mask" for="globalNaviStatus"><div></div></label>
+       <ul class="bpSiteList">
+        <li class="close"><label class="mask" for="globalNaviStatus"></label></li>
+        <li><a href="https://business.nikkei.com/?n_cid=nbpbpa_sbar" title="日経ビジネス電子版：リーダーのための経営・マネジメント情報">日経ビジネス電子版</a></li>
+        <li><a href="https://xtech.nikkei.com/?n_cid=nbpbpa_sbar" title="日経クロステック：技術×ビジネスの最前線を伝える">日経クロステック</a></li>
+        <li><a href="https://xtrend.nikkei.com/?n_cid=nbpbpa_sbar" title="日経クロストレンド：新市場を創る人のデジタル戦略メディア">日経クロストレンド</a></li>
+        <li><a href="https://medical.nikkeibp.co.jp/?n_cid=nbpbpa_sbar" title="日経メディカル：医師・医療従事者のための総合医療情報ポータル">日経メディカル</a></li>
+        <li><a href="https://aria.nikkei.com/?n_cid=nbpbpa_sbar" title="日経ARIA：大人の「働く・学ぶ・遊ぶ」を讃えるWEBメディア">日経ARIA</a></li>
+        <li><a href="https://dual.nikkei.com/?n_cid=nbpbpa_sbar" title="日経DUAL：働くママとパパを支えるWEBメディア">日経DUAL</a></li>
+        <li><a href="https://doors.nikkei.com/?n_cid=nbpbpa_sbar" title="日経doors：私だけの扉をみつけるWEBメディア">日経doors</a></li>
+        <li><a href="https://natgeo.nikkeibp.co.jp/?n_cid=nbpbpa_sbar" title="NATIONAL GEOGRAPHIC：地球の素顔をビジュアルに伝える">ナショナル ジオグラフィック</a></li>
+        <li><a href="https://www.nikkeibp.co.jp/?n_cid=nbpbpa_sbar" title="日経BP：その先を見る。その先を解く。">会社情報</a></li>
+        </ul>
+      </li>
+      <li><a href="/navi/support/about.html?i_cid=nbpnxr_sbar">日経クロストレンドとは</a></li>
+     </ul>
+    </div><!-- /.status-nav-link -->
+    <div class="status-nav-usr">
+    <ul>
+    <li class="nav-login"><a href="#" class="btn btn-login" onclick="return(bpsso.liMov(0))" data-atlas-trackable="login">ログイン</a></li>
+     <li class="nav-regist"><a href="/navi/support/subsc.html#regist" data-link-param="ru" class="btn btn-regist" data-atlas-trackable="regist">お申し込み</a></li>
+    </ul>
+    </div><!-- /.status-nav-usr -->
+    </div>
+   </div>
+  </div><!-- /.status-nav -->
+  <div class="top-header" data-atlas-trackable="header">
+   <header class="header">
+    <div class="header-global-menu" data-atlas-trackable="menu_detail">
+     <div class="global-menu-inner">
+      <div class="btn-close-box">
+       <div class="btn-close">
+        <span class="btn-close-border1"></span>
+        <span class="btn-close-border2"></span>
+       </div>
+      </div>
+      <p class="header-global-menu-message">会員になると様々なサービスが利用できます。</p>
+        <div class="burgerMenuHead03">
+         <a href="/navi/support/subsc.html#regist" data-link-param="ru" class="btnApplication btn btn-regist" data-atlas-trackable="regist">お申し込み</a>
+         <a href="#" class="btnLogin btn btn-login" onclick="return(bpsso.liMov(0))" data-atlas-trackable="login" >ログイン</a>
+        </div>
+       <nav class="global-menu-block">
+<ul class="global-menu-func">
+        <li><a href="/atcl/contents/new/?i_cid=nbpnxr_hmenu"><i class="icon icon-new-arrival"></i>新着</a></li>
+        <li><a href="/atcl/contents/?i_cid=nbpnxr_hmenu"><i class="icon icon-special"></i>特集</a></li>
+        <li><a href="/atcl/contents/?i_cid=nbpnxr_hmenu"><i class="icon icon-articleSeries"></i>連載</a></li>
+        <li><a href="/atcl/contents/ranking/?i_cid=nbpnxr_hmenu"><i class="icon icon-ranking"></i>ランキング</a></li>
+        <li><a href="/sp/?i_cid=nbpnxr_hmenu"><i class="icon icon-specialTemplate"></i>特設</a></li>
+        <li><a href="/atcl/contents/tag/?i_cid=nbpnxr_hmenu"><i class="icon icon-tag-list-search"></i>タグ一覧・検索</a></li>
+       </ul>
+       <ul class="global-menu-func">
+        <li><a href="/atcl/case/?i_cid=nbpnxr_hmenu"><i class="icon icon-data-base"></i>事例データベース</a></li>
+        <li><a href="/atcl/calendar/future/?i_cid=nbpnxr_hmenu"><i class="icon icon-calendar"></i>未来カレンダー</a></li>
+        <li><a href="/atcl/seminar/?i_cid=nbpnxr_hmenu"><i class="icon icon-seminar"></i>動画セミナー</a></li>
+        <li><a href="/talk/?i_cid=nbpnxr_hmenu"><i class="icon icon-forum-comment"></i>TALK</a></li>
+        <li><a href="/info/podcast/19/?i_cid=nbpnxr_hmenu"><i class="icon icon-podcast"></i>ポッドキャスト</a></li>
+        <li><a href="/navi/support/leafYougo.html?i_cid=nbpnxr_hmenu"><i class="icon icon-glossary"></i>用語集</a></li>
+        <li class="row1"><a href="/event/?i_cid=nbpnxr_hmenu"><i class="icon icon-event"></i>イベント</a></li>
+        <li class="row1">
+         <span class="menu-list-parent off"><i class="icon icon-digital-magazine"></i>デジタル雑誌<span class="menu-list-btn"></span></span>
+         <ul class="menu-list-child">
+          <li><a href="/atcl/viewer/?i_cid=nbpnxr_hmenu">デジタル雑誌</a></li>
+          <li><a href="/atcl/viewer/nxr/?i_cid=nbpnxr_hmenu">日経クロストレンド デジタル雑誌</a></li>
+          <li><a href="/atcl/viewer/nd/?i_cid=nbpnxr_hmenu">日経デザイン デジタル雑誌</a></li>
+          <li><a href="/atcl/viewer/?i_cid=nbpnxr_hmenu">日経トレンディ デジタル雑誌</a></li>
+         </ul>
+        </li>
+       </ul>
+      </nav>
+      </div>
+    </div>
+    <div class="inner">
+     <div class="header-menu">
+      <div class="header-menu-btn"><a data-atlas-trackable="menu"><i class="icon icon-menu"></i><span>メニュー</span></a></div>
+     </div>
+     <div class="header-search" data-atlas-trackable="search_detail">
+      <form id="headerSearch" accept-charset="utf-8"><i class="icon icon-search"></i>
+       <input type="search" id="headerKeywordTxt" name="query" class="input-search" autosave="https://" placeholder="記事を検索" required="required" value="" autocomplete="off" data-atlas-trackable="search">
+      </form>
+      <div class="header-tags">
+       <section class="section section-top-tags">
+        <div class="container-tags">
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_marketing&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケ・消費">マーケ・消費</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_techdata&i_cid=nbpnxr_header" data-atlas-trackable="&#035;技術・データ">技術・データ</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_innovation&i_cid=nbpnxr_header" data-atlas-trackable="&#035;イノベーション">イノベーション</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_overseas&i_cid=nbpnxr_header" data-atlas-trackable="&#035;中国・米国">中国・米国</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_header" data-atlas-trackable="&#035;スキルアップ">スキルアップ</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0201新型コロナ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;新型コロナ">新型コロナ</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0241キャッシュレス&i_cid=nbpnxr_header" data-atlas-trackable="&#035;キャッシュレス">キャッシュレス</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0261MaaS&i_cid=nbpnxr_header" data-atlas-trackable="&#035;MaaS">MaaS</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0251サブスクリプション&i_cid=nbpnxr_header" data-atlas-trackable="&#035;サブスクリプション">サブスクリプション</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F02115G&i_cid=nbpnxr_header" data-atlas-trackable="&#035;5G">5G</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=C0171コンビニ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;コンビニ">コンビニ</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0041マーケティング戦略&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケティング戦略">マーケティング戦略</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0111デザイン&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デザイン">デザイン</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0031商品開発&i_cid=nbpnxr_header" data-atlas-trackable="&#035;商品開発">商品開発</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0121デジタルマーケティング&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デジタルマーケティング">デジタルマーケティング</a>
+        </div>
+        <footer class="section-footer"><a href="/atcl/contents/tag/?i_cid=nbpnxr_header"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+      </div>
+      <!-- /. -->
+     </div>
+     <div class="site-id">
+     <h1><a href="/?i_cid=nbpnxr_header" data-atlas-trackable="logo-nxr"><img src="/images/2019/common/logoNxr.svg" alt="新市場を創る人のデジタル戦略メディア 日経クロストレンド"></a></h1>
+      </div>
+     <div class="header-right">
+      <nav class="nav-global-header">
+       <ul class="nav-global">
+        <li class=""><a href="/atcl/contents/?i_cid=nbpnxr_header" data-atlas-trackable="pickupSeries"><i class="icon icon-special"></i><span>特集・連載</span></a></li>
+<li class=""><a href="/atcl/case/?i_cid=nbpnxr_header" data-atlas-trackable="database"><i class="icon icon-data-base"></i><span>データベース</span></a></li>
+<li class=""><a href="/atcl/seminar/?i_cid=nbpnxr_header" data-atlas-trackable="seminar"><i class="icon icon-seminar"></i><span>セミナー</span></a></li>
+<li class=""><a href="/atcl/calendar/future/?i_cid=nbpnxr_header" data-atlas-trackable="calendar"><i class="icon icon-calendar"></i><span>カレンダー</span></a></li><li class=""><a href="/info/18/00008/?i_cid=nbpnxr_header"><i class="icon icon-guide"></i><span>使い方</span></a></li>
+</ul>
+      </nav>
+     </div>
+    </div>
+    </header>
+  </div>
+  <div class="ad-contents">
+   <div class="inner">
+    <div class="ad ad-rectangle">
+     <div id="div-gpt-ad-leaderboard">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-leaderboard');
+ });
+</script>
+</div></div>
+   </div>
+  </div>
+<div class="message-contents">
+    <div class="inner">
+    <p class="alert-message">
+・<a href="https://info.nikkei.com/nxr/subscription/?i_cid=nbpnxr_sied_infoa0323#charge">お得な春割5/14まで</a>　 ・<a href="https://business.nikkei.com/covid19/?i_cid=nbp_nxr">特設サイト「コロナショックに臨む」</a>
+</p></div>
+  </div>
+  <main class="main">
+   <div class="container">
+    <div class="inner">
+
+<div class="section-top-tags" data-atlas-trackable="tagArea">
+      <div class="container-tags">
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_marketing&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケ・消費">マーケ・消費</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_techdata&i_cid=nbpnxr_header" data-atlas-trackable="&#035;技術・データ">技術・データ</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_innovation&i_cid=nbpnxr_header" data-atlas-trackable="&#035;イノベーション">イノベーション</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_overseas&i_cid=nbpnxr_header" data-atlas-trackable="&#035;中国・米国">中国・米国</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_header" data-atlas-trackable="&#035;スキルアップ">スキルアップ</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0201新型コロナ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;新型コロナ">新型コロナ</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0241キャッシュレス&i_cid=nbpnxr_header" data-atlas-trackable="&#035;キャッシュレス">キャッシュレス</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0261MaaS&i_cid=nbpnxr_header" data-atlas-trackable="&#035;MaaS">MaaS</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0251サブスクリプション&i_cid=nbpnxr_header" data-atlas-trackable="&#035;サブスクリプション">サブスクリプション</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F02115G&i_cid=nbpnxr_header" data-atlas-trackable="&#035;5G">5G</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=C0171コンビニ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;コンビニ">コンビニ</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0041マーケティング戦略&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケティング戦略">マーケティング戦略</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0111デザイン&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デザイン">デザイン</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0031商品開発&i_cid=nbpnxr_header" data-atlas-trackable="&#035;商品開発">商品開発</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0121デジタルマーケティング&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デジタルマーケティング">デジタルマーケティング</a>
+      </div>
+       <a class="more-link" href="/atcl/contents/tag/?i_cid=nbpnxr_header"><i class="icon icon-right-arrow"></i>一覧</a>
+     </div>
+     <section class="section section-ichi-articles">
+      <div class="section-body">
+       <div class="articles-cols-3">
+       <div class="flex-item">
+         <article class="article article-summary-vertical">
+          <figure>
+           <img src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00259/00001/top_m.jpg?__scale=w:314,h:177,t:2&_sh=0c40a00e80" width="314" height="177" alt="ネット広告超える位置情報「ジオマ」の成果　ドコモが全方位展開" /></figure>
+          <div class="flex-item">
+           <div class="parent-title">【特集】位置情報マーケティング進化論</div>
+           <div class="article-title">ネット広告超える位置情報「ジオマ」の成果　ドコモが全方位展開<i class="icon icon-lock nxr_charge"></i></div>
+          </div>
+          <a href="/atcl/contents/18/00259/00001/?i_cid=nbpnxr_top_rec" class="block"></a>
+         </article>
+        </div>
+       <div class="flex-item">
+         <article class="article article-summary-vertical">
+          <figure>
+           <img src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00298/00002/pront_02_top_m.jpg?__scale=w:314,h:177,t:2&_sh=0480550a60" width="314" height="177" alt="プロントの自販機“1000べろ”立ち飲み　想定売り上げの2倍" /></figure>
+          <div class="flex-item">
+           <div class="parent-title">日本でも進む“無人店舗”への動き</div>
+           <div class="article-title">プロントの自販機“1000べろ”立ち飲み　想定売り上げの2倍<i class="icon icon-lock nxr_charge"></i></div>
+          </div>
+          <a href="/atcl/contents/18/00298/00002/?i_cid=nbpnxr_top_rec" class="block"></a>
+         </article>
+        </div>
+       <div class="flex-item">
+         <article class="article article-summary-vertical">
+          <figure>
+           <img src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00299/00001/01_m.jpg?__scale=w:314,h:177,t:2&_sh=0430360cb0" width="314" height="177" alt="集客力100万人のバーチャル市場　5Gとの連携でリアル店舗超える" /></figure>
+          <div class="flex-item">
+           <div class="parent-title">発進「日本版5G」実サービスの真価</div>
+           <div class="article-title">集客力100万人のバーチャル市場　5Gとの連携でリアル店舗超える<i class="icon icon-lock nxr_charge"></i></div>
+          </div>
+          <a href="/atcl/contents/18/00299/00001/?i_cid=nbpnxr_top_rec" class="block"></a>
+         </article>
+        </div>
+       </div>
+      </div>
+     </section>
+<div class="flex">
+
+      <div class="content">
+
+<section class="section section-days-articles">
+
+        <header class="section-header">
+         <h2>5G・無人店舗……テックトレンド記事一気読み</h2>
+        </header>
+
+        <div class="section-body">
+
+ <div class="articles-cols-3">
+          <div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="206" height="155" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/casestudy/00012/00307/top_s.png?__scale=w:206,h:155&_sh=0230ee0880" alt="「レコメンド」よ、さらば　AIが壊すマーケティングの常識" class="lazyload" /></figure>
+             <div class="parent-title">インサイド</div>
+             <div class="article-title">「レコメンド」よ、さらば　AIが壊すマーケティングの常識<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+            <a href="/atcl/contents/casestudy/00012/00307/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="206" height="155" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00298/00001/top_s.jpg?__scale=w:206,h:155&_sh=04a04b0290" alt="高輪ゲートウェイの無人コンビニ　人件費80万円の削減効果" class="lazyload" /></figure>
+             <div class="parent-title">日本でも進む“無人店舗”への動き</div>
+             <div class="article-title">高輪ゲートウェイの無人コンビニ　人件費80万円の削減効果<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+            <a href="/atcl/contents/18/00298/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="206" height="155" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00273/00001/06_s.jpg?__scale=w:206,h:155&_sh=0b905104a0" alt="LINEやドコモが推進　マーケ激変、店に客呼ぶ「スーパーアプリ」" class="lazyload" /></figure>
+             <div class="parent-title">スーパーアプリ時代の夜明け</div>
+             <div class="article-title">LINEやドコモが推進　マーケ激変、店に客呼ぶ「スーパーアプリ」<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+            <a href="/atcl/contents/18/00273/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="206" height="155" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00273/00002/Ph01_s.jpg?__scale=w:206,h:155&_sh=07407a0300" alt="「ヤフー統合でスーパーアプリの理想実現」LINEの舛田氏が宣言" class="lazyload" /></figure>
+             <div class="parent-title">スーパーアプリ時代の夜明け</div>
+             <div class="article-title">「ヤフー統合でスーパーアプリの理想実現」LINEの舛田氏が宣言<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+            <a href="/atcl/contents/18/00273/00002/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="206" height="155" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00284/00001/01_s.jpg?__scale=w:206,h:155&_sh=0860002005" alt="月額2万円のAIで万引き対策が激変　日本版「顔認証」活用の裏側" class="lazyload" /></figure>
+             <div class="parent-title">未来を動かす「顔認証」の今</div>
+             <div class="article-title">月額2万円のAIで万引き対策が激変　日本版「顔認証」活用の裏側<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+            <a href="/atcl/contents/18/00284/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="206" height="155" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00264/00001/top_s.jpg?__scale=w:206,h:155&_sh=05807202c0" alt="P&amp;amp;Gのパンパースが超進化　「スマート紙おむつ」？【CES2020】" class="lazyload" /></figure>
+             <div class="parent-title">CES 2020　現地レポート</div>
+             <div class="article-title">P&amp;Gのパンパースが超進化　「スマート紙おむつ」？【CES2020】<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+            <a href="/atcl/contents/18/00264/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          </div>
+         <div class="articles-cols-2-border border-bottom">
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00206/00016/01_s.jpg?__scale=w:96,h:72&_sh=0eb090d0a1" alt="パワポまとめ「コロナでも注目　未来を動かす“顔認証”の今」" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">仕事に使えるパワポまとめ「日経クロストレンド・スライド」</div>
+              <div class="article-title">パワポまとめ「コロナでも注目　未来を動かす“顔認証”の今」<i class="icon icon-lock nxr_charge"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00206/00016/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/seminar/19/00005/041800001/xT_douga_Gken_4-3_1.jpg?__scale=w:96,h:72&_sh=0ed05a08f0" alt="ディープラーニングG検定対策１　人工知能とは？" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">ディープラーニングG検定　対策講座</div>
+              <div class="article-title">ディープラーニングG検定対策１　人工知能とは？<i class="icon icon-lock FREE"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/seminar/19/00005/041800001/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          </div>
+    <div class="ad-infeed-top">
+<ul>
+<li>
+<div id="div-gpt-ad-infeed_top_01">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_top_01');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-infeed_top_02">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_top_02');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-infeed_top_03">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_top_03');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-infeed_top_04">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_top_04');
+ });
+</script>
+</div>
+</li></ul>
+</div>
+</div>
+<header class="section-header">
+         <h2>今こそ学ぼう　「新しいマーケティング」記事一気読み</h2>
+        </header>
+
+        <div class="section-body">
+         <div class="articles-cols-2-border border-bottom">
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00304/00001/01_s.png?__scale=w:96,h:72&_sh=02d0b70908" alt="新人もベテランも　ゼロから学ぼう「新しいマーケティング」" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">超図解・新しいマーケティング～5分でわかる「博報堂の流儀」～</div>
+              <div class="article-title">新人もベテランも　ゼロから学ぼう「新しいマーケティング」<i class="icon icon-lock nxr"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00304/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00286/00006/01_s.jpg?__scale=w:96,h:72&_sh=0980270705" alt="マーケ部門に異動したあなたへ　鹿毛氏「手法より人の心の理解」" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">アドバイザリーボードの「先見」</div>
+              <div class="article-title">マーケ部門に異動したあなたへ　鹿毛氏「手法より人の心の理解」<i class="icon icon-lock nxr_charge-v"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00286/00006/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00293/00002/001_s.jpg?__scale=w:96,h:72&_sh=01a0900b50" alt="手本は「サザン」　星野リゾートのブランド戦略（2）" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">星野佳路のマーケティング革命</div>
+              <div class="article-title">手本は「サザン」　星野リゾートのブランド戦略（2）<i class="icon icon-lock nxr_charge"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00293/00002/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00304/00003/01_s.jpg?__scale=w:96,h:72&_sh=07002d05e0" alt="マーケティング戦略の基本中の基本「STP」とは" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">超図解・新しいマーケティング～5分でわかる「博報堂の流儀」～</div>
+              <div class="article-title">マーケティング戦略の基本中の基本「STP」とは<i class="icon icon-lock nxr"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00304/00003/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/feature/00036/00014/pg7_s.jpg?__scale=w:96,h:72&_sh=0e40c30c70" alt="マーケティングエリート集団「P＆Gマフィア」 3つの共通点" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">「P&amp;Gマフィア」　～マーケティング業界を席巻するエリート集団はなぜ生まれたか　</div>
+              <div class="article-title">マーケティングエリート集団「P＆Gマフィア」 3つの共通点<i class="icon icon-lock nxr_charge"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/feature/00036/00014/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00286/00005/01_s.jpg?__scale=w:96,h:72&_sh=0e607307e0" alt="音部氏も実践　脱落者を出さず新卒を最強マーケターに育てる方法" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">アドバイザリーボードの「先見」</div>
+              <div class="article-title">音部氏も実践　脱落者を出さず新卒を最強マーケターに育てる方法<i class="icon icon-lock nxr_charge"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00286/00005/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/00084/top_s.jpg?__scale=w:96,h:72&_sh=08805b0bd0" alt="Zoomを使ったファンマーケに外食業界注目　若者の参加目立つ" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">マーケ＆テック 米国の実像</div>
+              <div class="article-title">Zoomを使ったファンマーケに外食業界注目　若者の参加目立つ<i class="icon icon-lock nxr_charge"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00109/00084/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00286/00007/01_s.jpg?__scale=w:96,h:72&_sh=0710330600" alt="新型コロナ下でどんな広告を作るべきか　エステー鹿毛氏の回答" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">アドバイザリーボードの「先見」</div>
+              <div class="article-title">新型コロナ下でどんな広告を作るべきか　エステー鹿毛氏の回答<i class="icon icon-lock FREE"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00286/00007/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00286/00003/01_s.jpg?__scale=w:96,h:72&_sh=0370350fb0" alt="マーケの本質は人間理解　富永氏が考える新卒マーケターの器量" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">アドバイザリーボードの「先見」</div>
+              <div class="article-title">マーケの本質は人間理解　富永氏が考える新卒マーケターの器量<i class="icon icon-lock nxr_charge"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00286/00003/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00983/top2_s.jpg?__scale=w:96,h:72&_sh=0d704d0260" alt="GWは「新型コロナ炎上」にご用心　“中の人”が注意すべき5カ条" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">Hot Topics</div>
+              <div class="article-title">GWは「新型コロナ炎上」にご用心　“中の人”が注意すべき5カ条<i class="icon icon-lock FREE"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/watch/00013/00983/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00206/00013/01_s.png?__scale=w:96,h:72&_sh=0e50710f80" alt="パワポまとめ「P＆Gマーケター流　失敗からの逆転法」" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">仕事に使えるパワポまとめ「日経クロストレンド・スライド」</div>
+              <div class="article-title">パワポまとめ「P＆Gマーケター流　失敗からの逆転法」<i class="icon icon-lock nxr_charge"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/contents/18/00206/00013/?i_cid=nbpnxr_top_new" class="block"></a>
+           </article>
+          </div>
+          </div>
+        </div>
+<footer class="section-footer"><a href="/atcl/contents/new/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+       <!-- /section_days_articles -->
+
+<section class="section section-ichi-articles">
+        <div class="section-body">
+         <div class="articles-cols-1">
+         <div class="flex-item">
+           <article class="article article-summary-vertical">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="650" height="366" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/00013/01_m.jpg?__scale=w:650,h:366,t:2&_sh=0e0e60c90e" alt="「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             <div class="article-title">「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+            <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_top_rec" class="block"></a>
+           </article>
+          </div>
+         </div>
+        </div>
+       </section>
+<section class="section section-feature-banner">
+        <header class="section-header"><h2>5月の注目特集</h2></header>
+        <div class="section-body">
+         <article class="article">
+          <figure>
+          <img src="/images/2019/common/loading_1_1.gif" width="650" height="212" data-src="https://cdn-xtrend.nikkei.com/images/2018/yokoku/pc_20200428.jpg?__scale=w:650,h:212,t:2,q:70&_sh=0910d30b70" alt="5月の注目特集" class="lazyload" /></figure>
+          <a href="/info/notice/?n_cid=nbpnxr_top" class="block"></a>
+         </article>
+        </div>
+        <div class="flex">
+         <div claas="flex-item">
+          <p class="section-lead">新市場を創る人のデジタル戦略メディア 日経クロストレンド
+          <br>有料会員登録で毎月200の新着記事とアーカイブが読み放題！</p>
+          <p class="section-feature-link"><a href="/navi/support/about.html?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>日経クロストレンドとは</a></p>
+         </div>
+         <div claas="flex-item"><a class="btn btn-regist" href="/navi/support/subsc.html?n_cid=nbpnxr_top" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a></div>
+        </div>
+       </section>
+<section class="section section-rec-articles">
+        <header class="section-header"><h2>あなたにお薦め</h2></header>
+         <div class="section-body">
+          <div class="articles-cols-2-border border-bottom" id="cx_recommend">
+           <script>
+  
+  var uniqContentsIds = '"00009zQW","00009zMZ"';
+  var widgetId = '6d822d299575f65a99648e32dfdc2224e6eb9144';
+  var atclCnt = '4';
+</script><div class="flex-item">
+            <article class="article article-summary-horizontal">
+             <div class="flex">
+              <figure>
+               <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00307/00002/01_s.jpg?__scale=w:96,h:72&_sh=01802b07a0" alt="Withコロナ時代のフードテック5つの視点　「食の再定義」が始まる" class="lazyload" /></figure>
+              <div class="flex-item">
+               <div class="parent-title">世界を変える「イノベー食」2020</div>
+               <div class="article-title">Withコロナ時代のフードテック5つの視点　「食の再定義」が始まる<i class="icon icon-lock nxr_charge"></i></div>
+              </div>
+             </div>
+             <a href="/atcl/contents/18/00307/00002/?i_cid=nbpnxr_cxense" class="block" data-atlas-trackable="recommend"></a>
+            </article>
+           </div>
+          <div class="flex-item">
+            <article class="article article-summary-horizontal">
+             <div class="flex">
+              <figure>
+               <img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00206/00016/01_s.jpg?__scale=w:96,h:72&_sh=0eb090d0a1" alt="パワポまとめ「コロナでも注目　未来を動かす“顔認証”の今」" class="lazyload" /></figure>
+              <div class="flex-item">
+               <div class="parent-title">仕事に使えるパワポまとめ</div>
+               <div class="article-title">パワポまとめ「コロナでも注目　未来を動かす“顔認証”の今」<i class="icon icon-lock nxr_charge"></i></div>
+              </div>
+             </div>
+             <a href="/atcl/contents/18/00206/00016/?i_cid=nbpnxr_cxense" class="block" data-atlas-trackable="recommend"></a>
+            </article>
+           </div>
+          <div class="ad-infeed-leaf">
+<ul>
+<li>
+<div id="div-gpt-ad-infeed_leaf_01">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_leaf_01');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-infeed_leaf_02">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_leaf_02');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-infeed_leaf_03">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_leaf_03');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-infeed_leaf_04">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-infeed_leaf_04');
+ });
+</script>
+</div>
+</li></ul>
+</div>
+</div>
+          <footer class="section-footer"><a href="/atcl/contents/recommend/?i_cid=nbpnxr_cxense"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         </div>
+        </section>
+        <section class="ad ad-text">
+<header class="section-header">
+ピックアップ [PR]
+</header>
+<div class="section-body">
+<ul>
+<li>
+<div id="div-gpt-ad-textad_01">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-textad_01');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-textad_02">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-textad_02');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-textad_03">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-textad_03');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-textad_04">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-textad_04');
+ });
+</script>
+</div>
+</li></ul>
+</div>
+</section>
+<section class="section section-series-articles">
+        <header class="section-header">
+         <h2>お薦め特集・連載</h2>
+        </header>
+
+        <div class="section-body">
+         <div class="articles-cols-4">
+
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00307/xT_toku_inoshoku_cover.jpg?__scale=w:150,h:200&_sh=0a904b01f0" alt="世界を変える「イノベー食」2020" class="lazyload" /></figure>
+             <div class="parent-title">世界を変える「イノベー食」2020</div>
+             <div class="badge">全5回</div>
+             </div>
+            <a href="/atcl/contents/18/00307/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00206/ppt_matome.jpg?__scale=w:150,h:200&_sh=08201f0d30" alt="仕事に使えるパワポまとめ「日経クロストレンド・スライド」" class="lazyload" /></figure>
+             <div class="parent-title">仕事に使えるパワポまとめ「日経クロストレンド・スライド」</div>
+             </div>
+            <a href="/atcl/contents/18/00206/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00297/xT_Zsedai_cover.jpg?__scale=w:150,h:200&_sh=0310e005d0" alt="Z世代10年後の中核層を攻略せよ" class="lazyload" /></figure>
+             <div class="parent-title">Z世代10年後の中核層を攻略せよ</div>
+             <div class="badge">全8回</div>
+             </div>
+            <a href="/atcl/contents/18/00297/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/coronavirus.jpg?__scale=w:150,h:200&_sh=06505f0c90" alt="緊急特集　新型コロナウイルスの脅威" class="lazyload" /></figure>
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             </div>
+            <a href="/atcl/contents/18/00282/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/113_xT_hottopics.jpg?__scale=w:150,h:200&_sh=0c80ad06b0" alt="Hot Topics" class="lazyload" /></figure>
+             <div class="parent-title">Hot Topics</div>
+             </div>
+            <a href="/atcl/contents/watch/00013/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00094/xT_bookaward_re.jpg?__scale=w:150,h:200&_sh=01c0d00740" alt="ビジネス本大賞2019" class="lazyload" /></figure>
+             <div class="parent-title">ビジネス本大賞2019</div>
+             <div class="badge">全4回</div>
+             </div>
+            <a href="/atcl/contents/18/00094/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/xT_usreport_re.jpg?__scale=w:150,h:200&_sh=0a5080f80b" alt="マーケ＆テック 米国の実像" class="lazyload" /></figure>
+             <div class="parent-title">マーケ＆テック 米国の実像</div>
+             </div>
+            <a href="/atcl/contents/18/00109/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="150" height="200" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00290/xT_kaiho_a2.jpg?__scale=w:150,h:200&_sh=04b0be0880" alt="消費者目線で検証！　週末解放区" class="lazyload" /></figure>
+             <div class="parent-title">消費者目線で検証！　週末解放区</div>
+             </div>
+            <a href="/atcl/contents/18/00290/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+</div>
+        </div>
+        <footer class="section-footer"><a href="/atcl/contents/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+       <!-- /section_series_articles -->
+       <section class="section section-pickup-articles">
+        <header class="section-header">
+         <h2>スキルアップ</h2>
+        </header>
+
+        <div class="section-body">
+         <div class="articles-cols-2">
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="315" height="236" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00293/00003/001_s.jpg?__scale=w:315,h:236&_sh=0890960d30" alt="ブランドの正体は情報の束　星野リゾートのブランド戦略（3）" class="lazyload" /><div class="flex-item">
+               <div class="parent-title">ブランドの正体は情報の束　星野リゾートのブランド戦略（3）<i class="icon icon-lock nxr_charge"></i></div>
+              </div>
+             </figure>
+            </div>
+            <div class="bplead">いまや国内外での運営施設が50に達しようという星野リゾート。「星野リゾート」という社名はもちろん、「星のや」「界」「リゾナーレ」「OMO（おも）」「BEB（ベブ）」といった施設名も広く浸透しつつある。代表の星野佳路氏はどんな考えを基にブランド展開しているのか、その戦略を…続き</div>
+            <a href="/atcl/contents/18/00293/00003/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical">
+            <div>
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="315" height="236" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00105/00052/00_s.jpg?__scale=w:315,h:236&_sh=0640800270" alt="ファンの応援を金に変える　社会貢献もできるTシャツ店" class="lazyload" /><div class="flex-item">
+               <div class="parent-title">ファンの応援を金に変える　社会貢献もできるTシャツ店<i class="icon icon-lock nxr"></i></div>
+              </div>
+             </figure>
+            </div>
+            <div class="bplead">応援したい人に思いを伝える方法はさまざまある。ただSNSで「いいね！」するだけでは物足りないし、かといっていきなり現金を送り付けるわけにもいかない。そんなニーズに応えた、「応援する気持ちを金に変換する仕組みの提供」を目指しているサービスがある。</div>
+            <a href="/atcl/contents/18/00105/00052/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+</div>
+        </div>
+        <footer class="section-footer"><a href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+       <!-- /section_pickup_articles -->
+       <section class="section section-db-articles">
+        <header class="section-header">
+         <h2>事例データベース</h2>
+        </header>
+        <p class="section-lead">タグ検索で、データベースから先進事例を探せます。</p>
+        <div class="section-tags">
+         <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA"><span class="tag tag-outline-theme tag-m">MaaS</span><i>×</i><span class="tag tag-outline-theme tag-m">事業開発</span>の事例</a>
+        </div>
+        <div class="section-body">
+         <div class="articles-cols-2-border border-bottom">
+          <div class="flex-item">
+            <article class="article article-summary-horizontal">
+             <div class="flex">
+              <figure><img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/00019/01_s.jpg?__scale=w:96,h:72&_sh=0230f80c80" alt="「移動」を止めるな！　Withコロナ時代のMaaS（1）" class="lazyload" /></figure>
+              <div class="flex-item">
+               <div class="parent-title">緊急特集Beyondコロナ　～変わるビジネス～</div>
+               <div class="article-title">「移動」を止めるな！　Withコロナ時代のMaaS（1）<i class="icon icon-lock FREE"></i></div>
+              </div>
+             </div>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+            </article>
+           </div>
+          <div class="flex-item">
+            <article class="article article-summary-horizontal">
+             <div class="flex">
+              <figure><img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/casestudy/00012/00375/01_s.jpg?__scale=w:96,h:72&_sh=01707c0250" alt="東京都心「大丸有MaaS」が始動へ　世界初デジタル都市計画の全貌" class="lazyload" /></figure>
+              <div class="flex-item">
+               <div class="parent-title">インサイド</div>
+               <div class="article-title">東京都心「大丸有MaaS」が始動へ　世界初デジタル都市計画の全貌<i class="icon icon-lock nxr_charge"></i></div>
+              </div>
+             </div>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+            </article>
+           </div>
+          <div class="flex-item">
+            <article class="article article-summary-horizontal">
+             <div class="flex">
+              <figure><img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00971/top_s.jpg?__scale=w:96,h:72&_sh=01406801b0" alt="観光MaaSの成功と失敗　東急がIzukoで学んだこと" class="lazyload" /></figure>
+              <div class="flex-item">
+               <div class="parent-title">Hot Topics</div>
+               <div class="article-title">観光MaaSの成功と失敗　東急がIzukoで学んだこと<i class="icon icon-lock nxr_charge"></i></div>
+              </div>
+             </div>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+            </article>
+           </div>
+          <div class="flex-item">
+            <article class="article article-summary-horizontal">
+             <div class="flex">
+              <figure><img src="/images/2019/common/loading_1_1.gif" width="96" height="72" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/feature/00025/00008/top_s.jpg?__scale=w:96,h:72&_sh=05e0f10720" alt="スマートシティの3類型から見る日本の勝ち筋" class="lazyload" /></figure>
+              <div class="flex-item">
+               <div class="parent-title">2020年のマーケティング</div>
+               <div class="article-title">スマートシティの3類型から見る日本の勝ち筋<i class="icon icon-lock nxr_charge"></i></div>
+              </div>
+             </div>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+            </article>
+           </div>
+          </div>
+        </div>
+        <footer class="section-footer"><a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+       <!-- /section_db_articles -->
+<section class="section section-seminar-articles">
+        <header class="section-header">
+         <h2>動画セミナー</h2>
+        </header>
+        <div class="section-body">
+         <div class="articles-cols-2">
+<div class="flex-item">
+           <article class="article article-summary-vertical movie">
+            <div>
+             <figure>
+              <div class="btn-play"></div>
+              <img src="/images/2019/common/loading_1_1.gif" width="315" height="177" data-src="https://cdn-xtrend.nikkei.com/atcl/seminar/19/00005/041800001/banner20190509_1.jpg?__scale=w:315,h:177&_sh=0550f50e20" alt="ディープラーニングG検定対策１ 人工知能とは？" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">今こそ学んで資格を取得</div>
+              <div class="article-title">ディープラーニングG検定対策１ 人工知能とは？<i class="icon icon-lock FREE"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/seminar/19/00005/041800001/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+<div class="flex-item">
+           <article class="article article-summary-vertical movie">
+            <div>
+             <figure>
+              <div class="btn-play"></div>
+              <img src="/images/2019/common/loading_1_1.gif" width="315" height="177" data-src="https://cdn-xtrend.nikkei.com/atcl/seminar/19/00017/00001/01_m.jpg?__scale=w:315,h:177&_sh=0490870b10" alt="ウェブ解析士試験対策1　イントロダクション" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">今こそ学んで資格を取得</div>
+              <div class="article-title">ウェブ解析士試験対策1　イントロダクション<i class="icon icon-lock FREE"></i></div>
+             </div>
+            </div>
+            <a href="/atcl/seminar/19/00017/00001/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+</div>
+        </div>
+        <footer class="section-footer"><a href="/atcl/seminar/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+       <!-- /section_seminar_articles -->
+       <section class="section section-calender">
+        <div class="main future-calendar">
+         <header class="section-header">
+          <h2>未来消費カレンダー</h2>
+         </header>
+         <div class="container container-calendar">
+          <div class="calendar">
+           <div class="year">
+            <div class="year-inner">
+             <div class="flex-rows">
+              <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor current">2020</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2021</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2022</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2023</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2024</a></p>
+                </div>
+            </div>
+           </div>
+           <div class="month">
+            <div class="month-inner">
+             <div class="left-line-box">
+              <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor current">5</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">6</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">7</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">8</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">9</a></div>
+                </div>
+            </div>
+           </div>
+           <div class="results">
+            <div class="results-inner">
+             <div class="container-article new-facility">
+               <article class="article article-summary-horizontal">
+                <div class="flex">
+                 <div class="flex-item">
+                  <div class="date">5月5日</div>
+                  <div class="article-title">暦の上で夏が始まる「立夏」</div>
+                 </div>
+                 </div>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+               </article>
+               <hr class="line-dotted">
+              </div>
+             <div class="container-article new-facility">
+               <article class="article article-summary-horizontal">
+                <div class="flex">
+                 <div class="flex-item">
+                  <div class="date">5月5日</div>
+                  <div class="article-title">こどもの日、端午の節句</div>
+                 </div>
+                 </div>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+               </article>
+               <hr class="line-dotted">
+              </div>
+             <div class="container-article new-facility">
+               <article class="article article-summary-horizontal">
+                <div class="flex">
+                 <div class="flex-item">
+                  <div class="date">5月6日</div>
+                  <div class="article-title">【延期】「京都市京セラ美術館」がリノベーションし、開業</div>
+                 </div>
+                 <figure>
+                  <img src="/images/2019/common/loading_1_1.gif" width="93" height="70" data-src="https://cdn-xtrend.nikkei.com/atcl/calendar/future/003/003089/calendar_s.jpg?__scale=w:93,h:70&_sh=0e908a09a0" alt="【延期】「京都市京セラ美術館」がリノベーションし、開業" class="lazyload" /></figure>
+                 </div>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+               </article>
+               <hr class="line-dotted">
+              </div>
+             <div class="container-article new-facility">
+               <article class="article article-summary-horizontal">
+                <div class="flex">
+                 <div class="flex-item">
+                  <div class="date">5月9日</div>
+                  <div class="article-title">アイスクリームの日</div>
+                 </div>
+                 </div>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+               </article>
+               <hr class="line-dotted">
+              </div>
+             <div class="container-article new-facility">
+               <article class="article article-summary-horizontal">
+                <div class="flex">
+                 <div class="flex-item">
+                  <div class="date">5月10日</div>
+                  <div class="article-title">母の日</div>
+                 </div>
+                 </div>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+               </article>
+               <hr class="line-dotted">
+              </div>
+             </div>
+           </div>
+
+          </div>
+          <!-- /.calendar -->
+         </div>
+        </div>
+        <!-- /.future-calendar -->
+        <footer class="section-footer"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+       <!-- /section-calender -->
+       <section class="section section-magazine-articles">
+        <header class="section-header">
+         <h2>デジタル雑誌</h2>
+        </header>
+        <div class="section-body">
+         <div class="articles-cols-3">
+          <div class="flex-item">
+          <article class="article article-summary-vertical">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="195" height="260" data-src="https://cdn-xtrend.nikkei.com/atcl/viewer/nxr/18/00034/_typical-image.jpg?__scale=w:195,h:260,r:1&_sh=04c09f0a60" alt="心に刺さる「サブスク」の通信簿" class="lazyload" /><figcaption>
+              <div class="magazine-title">日経クロストレンド</div>
+              <div class="date">2020年5月</div>
+             </figcaption>
+            </figure>
+            <a href="/atcl/viewer/nxr/18/00034/?i_cid=nbpnxr_top" class="block" target="_blank"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+          <article class="article article-summary-vertical">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="195" height="260" data-src="https://cdn-xtrend.nikkei.com/atcl/viewer/nd/18/00063/_typical-image.jpg?__scale=w:195,h:260,r:1&_sh=0920e05d04" alt="クラウドファンディングから生まれるヒット商品の舞台裏" class="lazyload" /><figcaption>
+              <div class="magazine-title">日経デザイン</div>
+              <div class="date">2020年5月号</div>
+             </figcaption>
+            </figure>
+            <a href="/atcl/viewer/nd/18/00063/?i_cid=nbpnxr_top" class="block" target="_blank"></a>
+           </article>
+          </div>
+          <div class="flex-item">
+          <article class="article article-summary-vertical">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="195" height="260" data-src="https://cdn-xtrend.nikkei.com/atcl/viewer/tre/18/00050/_typical-image.jpg?__scale=w:195,h:260,r:1&_sh=08c0630690" alt="テレワーク実践講座" class="lazyload" /><figcaption>
+              <div class="magazine-title">日経トレンディ</div>
+              <div class="date">2020年6月号</div>
+             </figcaption>
+            </figure>
+            <a href="/atcl/viewer/tre/18/00050/?i_cid=nbpnxr_top" class="block" target="_blank"></a>
+           </article>
+          </div>
+         </div>
+        </div>
+        <footer class="section-footer"><a href="/atcl/viewer/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+       <!-- /section_magazine_articles -->
+<section class="section section-event-articles">
+        <header class="section-header">
+         <h2>イベント</h2>
+        </header>
+        <div class="section-body">
+         <div class="articles-cols-1">
+
+         <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="120" height="90" data-src="https://cdn-xtrend.nikkei.com/atcl/talk/19/00001/00013/top_event_s.jpg?__scale=w:120,h:90&_sh=0de04b0520" alt="【オンラインセミナー】鹿毛康司氏が語る「コロナ時代、マーケターはどう動くべきか」" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="article-title">【オンラインセミナー】鹿毛康司氏が語る「コロナ時代、マーケターはどう動くべきか」</div>
+              </div>
+            </div>
+            <a href="/atcl/talk/19/00001/00013/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+         <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="120" height="90" data-src="https://cdn-xtrend.nikkei.com/info/18/00006/00053/01_s.jpg?__scale=w:120,h:90&_sh=0b40560180" alt="ディープラーニング表彰募集開始、アフターコロナここから始まる" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="article-title">ディープラーニング表彰募集開始、アフターコロナここから始まる</div>
+              </div>
+            </div>
+            <a href="/info/18/00006/00053/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+         <div class="flex-item">
+           <article class="article article-summary-horizontal">
+            <div class="flex">
+             <figure>
+              <img src="/images/2019/common/loading_1_1.gif" width="120" height="90" data-src="https://cdn-xtrend.nikkei.com/atcl/talk/19/00001/00011/top_event_s.jpg?__scale=w:120,h:90&_sh=02e0730fc0" alt="人気連載「刺さる」プレゼンの極意　筆者の戸田氏がライブ実演！" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="article-title">人気連載「刺さる」プレゼンの極意　筆者の戸田氏がライブ実演！</div>
+              </div>
+            </div>
+            <a href="/atcl/talk/19/00001/00011/?i_cid=nbpnxr_top" class="block"></a>
+           </article>
+          </div>
+         </div>
+        </div>
+        <footer class="section-footer"><a href="/event/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+       </section>
+</div>
+      <aside class="aside">
+       <section class="section section-subsc-link">
+<header class="section-header">
+         <p>お知らせ</p>
+        </header>
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/info/18/00006/00054/top_1.png?__scale=w:80,h:60,t:2&_sh=07808d0100" alt="GW期間中はトップページを特別編成でお届けします" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">人気記事を一気読み</div>
+             <div class="article-title">GW期間中はトップページを特別編成でお届けします<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/info/18/00006/00054/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/talk/19/00001/00013/top_event_s.jpg?__scale=w:80,h:60,t:2&_sh=02f0f901b0" alt="鹿毛康司氏が語る「コロナ時代、マーケターはどう動くべきか」" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">5月27日開催ミートアップ</div>
+             <div class="article-title">鹿毛康司氏が語る「コロナ時代、マーケターはどう動くべきか」<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/atcl/talk/19/00001/00013/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/info/18/00006/00049/01_s.jpg?__scale=w:80,h:60,t:2&_sh=09d0960a80" alt="書籍『Beyond MaaS　日本から始まる新モビリティ革命』" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">好評につき増刷！必読書籍</div>
+             <div class="article-title">書籍『Beyond MaaS　日本から始まる新モビリティ革命』<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/info/18/00006/00049/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+<div class="ad-notice">
+<ul><li>
+<div id="div-gpt-ad-notice_01">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-notice_01');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-notice_02">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-notice_02');
+ });
+</script>
+</div>
+</li></ul>
+</div>
+</section>
+<section class="section section-feature-banner">
+        <div class="section-body">
+         <article class="article">
+          <figure>
+          <img src="/images/2019/common/loading_1_1.gif" width="300" height="100" data-src="https://cdn-xtrend.nikkei.com/navi/redirect/00041/jyosetsu_300_100.png?__scale=w:300,h:100,t:2&_sh=0270ec0850" alt="キャンペーン" class="lazyload" /></figure>
+          <a href="/navi/redirect/00041/?n_cid=nbpnxr_right" target="_blank" rel="noopener" class="block"></a>
+         </article>
+        </div>
+</section>
+<div class="section ad ad-first-rectangle"><div id="div-gpt-ad-rectangle1">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-rectangle1');
+ });
+</script>
+</div></div>
+<section class="section section-favorite-ranking" id="LINK01" data-atlas-trackable="subcolumn">
+        <header class="section-header">
+         <h2>人気記事ランキング</h2>
+        </header>
+        <div class="section-body switch-panels3">
+         <ul>
+          <li><a href="#panel000">現在</a></li>
+          <li><a href="#panel001">昨日</a></li>
+          <li><a href="#panel002">一週間</a></li>
+          </ul>
+
+         <div id="panel000" class="panels3 show-more-box" data-show-init="20" data-show="20" >
+          <ul class="list-counter show-more-items">
+          <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00290/00003/01_s.jpg?__scale=w:80,h:60&_sh=0b00cd0830" alt="なぜ今？　バルミューダ初のスピーカー　寺尾社長が明かした本音" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">消費者目線で検証！　週末解放区</div>
+             <div class="article-title">なぜ今？　バルミューダ初のスピーカー　寺尾社長が明かした本音<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00290/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/00086/top_s.jpg?__scale=w:80,h:60&_sh=0a90af02b0" alt="フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">マーケ＆テック 米国の実像</div>
+             <div class="article-title">フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00290/00004/01_s.jpg?__scale=w:80,h:60&_sh=05d0550400" alt="歌にこだわった“音の秘密”　バルミューダ初のスピーカー" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">消費者目線で検証！　週末解放区</div>
+             <div class="article-title">歌にこだわった“音の秘密”　バルミューダ初のスピーカー<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00290/00004/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00978/04_s.jpg?__scale=w:80,h:60&_sh=0fa09604f0" alt="楽天モバイル、試験レベルから脱却なるか　弱点はエリアとiPhone" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">楽天モバイル、試験レベルから脱却なるか　弱点はエリアとiPhone<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00978/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00983/top2_s.jpg?__scale=w:80,h:60&_sh=0d10f30b00" alt="GWは「新型コロナ炎上」にご用心　“中の人”が注意すべき5カ条" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">GWは「新型コロナ炎上」にご用心　“中の人”が注意すべき5カ条<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00983/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00312/00001/01_s.jpg?__scale=w:80,h:60&_sh=0e00bb0cc0" alt="JR東京駅の夜勤者を救え　食品ロス1トンを削減したSDGsベンチャー" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">駅から始まる！ JR東日本スタートアップの挑戦</div>
+             <div class="article-title">JR東京駅の夜勤者を救え　食品ロス1トンを削減したSDGsベンチャー<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00312/00001/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00079/00054/top_s.jpg?__scale=w:80,h:60&_sh=0330f90290" alt="コロナ後の世界では、オフィスのあり方は変わり、元には戻れない" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">海外翻訳 Fast Company ピックアップ</div>
+             <div class="article-title">コロナ後の世界では、オフィスのあり方は変わり、元には戻れない<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00079/00054/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00982/02_s.jpg?__scale=w:80,h:60&_sh=02a0940860" alt="串カツ田中が野菜のテークアウト　コロナ禍でも売り上げ8割維持" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">串カツ田中が野菜のテークアウト　コロナ禍でも売り上げ8割維持<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00982/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00304/00003/01_s.jpg?__scale=w:80,h:60&_sh=0370e80ff0" alt="マーケティング戦略の基本中の基本「STP」とは" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">超図解・新しいマーケティング～5分でわかる「博報堂の流儀」～</div>
+             <div class="article-title">マーケティング戦略の基本中の基本「STP」とは<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00304/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00977/001_s.jpg?__scale=w:80,h:60&_sh=0be0340980" alt="新型コロナで「24時間買い物代行」　物流会社が7都府県で開始" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集Beyondコロナ　～変わるビジネス～</div>
+             <div class="article-title">新型コロナで「24時間買い物代行」　物流会社が7都府県で開始<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00977/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         </ul>
+          <p class="article-note">現在と昨日は、1週間以内に公開した記事が対象</p>
+          <div class="container-more show-more-btn-box"><a class="btn btn-outline-secondary btn-more show-more-btn">さらに20件を表示<i class="icon icon-down-arrow"></i></a></div>
+         </div>
+
+         <div id="panel001" class="panels3 show-more-box" data-show-init="20" data-show="20" >
+          <ul class="list-counter show-more-items">
+          <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00290/00003/01_s.jpg?__scale=w:80,h:60&_sh=0b00cd0830" alt="なぜ今？　バルミューダ初のスピーカー　寺尾社長が明かした本音" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">消費者目線で検証！　週末解放区</div>
+             <div class="article-title">なぜ今？　バルミューダ初のスピーカー　寺尾社長が明かした本音<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00290/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00290/00004/01_s.jpg?__scale=w:80,h:60&_sh=05d0550400" alt="歌にこだわった“音の秘密”　バルミューダ初のスピーカー" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">消費者目線で検証！　週末解放区</div>
+             <div class="article-title">歌にこだわった“音の秘密”　バルミューダ初のスピーカー<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00290/00004/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00978/04_s.jpg?__scale=w:80,h:60&_sh=0fa09604f0" alt="楽天モバイル、試験レベルから脱却なるか　弱点はエリアとiPhone" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">楽天モバイル、試験レベルから脱却なるか　弱点はエリアとiPhone<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00978/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/00086/top_s.jpg?__scale=w:80,h:60&_sh=0a90af02b0" alt="フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">マーケ＆テック 米国の実像</div>
+             <div class="article-title">フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00983/top2_s.jpg?__scale=w:80,h:60&_sh=0d10f30b00" alt="GWは「新型コロナ炎上」にご用心　“中の人”が注意すべき5カ条" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">GWは「新型コロナ炎上」にご用心　“中の人”が注意すべき5カ条<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00983/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00304/00003/01_s.jpg?__scale=w:80,h:60&_sh=0370e80ff0" alt="マーケティング戦略の基本中の基本「STP」とは" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">超図解・新しいマーケティング～5分でわかる「博報堂の流儀」～</div>
+             <div class="article-title">マーケティング戦略の基本中の基本「STP」とは<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00304/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00312/00001/01_s.jpg?__scale=w:80,h:60&_sh=0e00bb0cc0" alt="JR東京駅の夜勤者を救え　食品ロス1トンを削減したSDGsベンチャー" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">駅から始まる！ JR東日本スタートアップの挑戦</div>
+             <div class="article-title">JR東京駅の夜勤者を救え　食品ロス1トンを削減したSDGsベンチャー<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00312/00001/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00982/02_s.jpg?__scale=w:80,h:60&_sh=02a0940860" alt="串カツ田中が野菜のテークアウト　コロナ禍でも売り上げ8割維持" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">串カツ田中が野菜のテークアウト　コロナ禍でも売り上げ8割維持<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00982/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/casestudy/00012/00377/top_s.jpg?__scale=w:80,h:60&_sh=0300d20560" alt="花、菓子、コーヒー…テレワーク長期化で伸びる意外なサブスク" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">インサイド</div>
+             <div class="article-title">花、菓子、コーヒー…テレワーク長期化で伸びる意外なサブスク<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/casestudy/00012/00377/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00307/00005/01_s.jpg?__scale=w:80,h:60&_sh=0d101b0500" alt="JR東日本も「イノベー食」参戦　新大久保に食の“聖地”誕生へ" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">世界を変える「イノベー食」2020</div>
+             <div class="article-title">JR東日本も「イノベー食」参戦　新大久保に食の“聖地”誕生へ<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00307/00005/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         </ul>
+          <p class="article-note">現在と昨日は、1週間以内に公開した記事が対象</p>
+          <div class="container-more show-more-btn-box"><a class="btn btn-outline-secondary btn-more show-more-btn">さらに20件を表示<i class="icon icon-down-arrow"></i></a></div>
+         </div>
+
+         <div id="panel002" class="panels3 show-more-box" data-show-init="20" data-show="20" >
+          <ul class="list-counter show-more-items">
+          <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/info/09/00070/033100005/thumb_s.jpg?__scale=w:80,h:60&_sh=0d20c30680" alt="【PR】今、一番搾りが消費者目線のおいしさで大人気" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">【PR】日経クロストレンド</div>
+             <div class="article-title">【PR】今、一番搾りが消費者目線のおいしさで大人気<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/info/09/00070/033100005/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/00086/top_s.jpg?__scale=w:80,h:60&_sh=0a90af02b0" alt="フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">マーケ＆テック 米国の実像</div>
+             <div class="article-title">フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00978/04_s.jpg?__scale=w:80,h:60&_sh=0fa09604f0" alt="楽天モバイル、試験レベルから脱却なるか　弱点はエリアとiPhone" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">楽天モバイル、試験レベルから脱却なるか　弱点はエリアとiPhone<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00978/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00307/00002/01_s.jpg?__scale=w:80,h:60&_sh=0d006c0a50" alt="Withコロナ時代のフードテック5つの視点　「食の再定義」が始まる" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">世界を変える「イノベー食」2020</div>
+             <div class="article-title">Withコロナ時代のフードテック5つの視点　「食の再定義」が始まる<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00307/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/00013/01_s.jpg?__scale=w:80,h:60&_sh=0970d00a30" alt="「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             <div class="article-title">「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/trn/pickup/15/1003590/042100888/top70.jpg?__scale=w:80,h:60&_sh=080510600b" alt="Switch版『ゼルダの伝説 ブレス オブ ザ ワイルド』の魅力は何でもあり" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">日経トレンディネット（マーケ・消費）</div>
+             <div class="article-title">Switch版『ゼルダの伝説 ブレス オブ ザ ワイルド』の魅力は何でもあり<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/trn/pickup/15/1003590/042100888/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/casestudy/00012/00377/top_s.jpg?__scale=w:80,h:60&_sh=0300d20560" alt="花、菓子、コーヒー…テレワーク長期化で伸びる意外なサブスク" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">インサイド</div>
+             <div class="article-title">花、菓子、コーヒー…テレワーク長期化で伸びる意外なサブスク<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/casestudy/00012/00377/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/feature/00025/00009/top_s.jpg?__scale=w:80,h:60&_sh=06101306c0" alt="テレワークの次は「モニタリング」　働き方改革は次の段階へ" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             <div class="article-title">テレワークの次は「モニタリング」　働き方改革は次の段階へ<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/feature/00025/00009/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00112/00034/top_s.jpg?__scale=w:80,h:60&_sh=08406e04f0" alt="日清の完全栄養食、商品化を切り開いた資料　1枚で社長を説得" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">「刺さる」プレゼンの極意</div>
+             <div class="article-title">日清の完全栄養食、商品化を切り開いた資料　1枚で社長を説得<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00112/00034/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00960/01_s.jpg?__scale=w:80,h:60&_sh=06708c09a0" alt="ビーズソファのYogiboから新ブランド「Modju」上陸　狙いは居間" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">ビーズソファのYogiboから新ブランド「Modju」上陸　狙いは居間<i class="icon icon-lock FREE"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00960/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         </ul>
+          <div class="container-more show-more-btn-box"><a class="btn btn-outline-secondary btn-more show-more-btn">さらに20件を表示<i class="icon icon-down-arrow"></i></a></div>
+         </div>
+
+        <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking" data-atlas-trackable="ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         </div>
+       </section>
+       <section class="ad-pickup">
+<ul><li>
+<div id="div-gpt-ad-pickup_01">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-pickup_01');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-pickup_02">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-pickup_02');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-pickup_03">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-pickup_03');
+ });
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-pickup_04">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-pickup_04');
+ });
+</script>
+</div>
+</li></ul>
+</section>
+<section class="section section-favorite-ranking" id="LINK02" data-atlas-trackable="subcolumn">
+        <header class="section-header">
+         <h2>人気特集・連載ランキング</h2>
+        </header>
+        <div class="section-body">
+         <ul class="list-counter">
+          <li>
+           <article class="article article-summary-horizontal favorite-ranking series-ranking">
+            <div class="flex">
+             <figure><img src="/images/2019/common/loading_1_1.gif" width="60" height="80" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/coronavirus.jpg?__scale=w:60,h:80&_sh=05b0ad02f0" alt="緊急特集　新型コロナウイルスの脅威" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+              </div>
+            </div>
+            <a href="/atcl/contents/18/00282/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+          <li>
+           <article class="article article-summary-horizontal favorite-ranking series-ranking">
+            <div class="flex">
+             <figure><img src="/images/2019/common/loading_1_1.gif" width="60" height="80" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/113_xT_hottopics.jpg?__scale=w:60,h:80&_sh=0cb0e40620" alt="Hot Topics" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">Hot Topics</div>
+              </div>
+            </div>
+            <a href="/atcl/contents/watch/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+          <li>
+           <article class="article article-summary-horizontal favorite-ranking series-ranking">
+            <div class="flex">
+             <figure><img src="/images/2019/common/loading_1_1.gif" width="60" height="80" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00094/xT_bookaward_re.jpg?__scale=w:60,h:80&_sh=0e80430c10" alt="ビジネス本大賞2019" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">ビジネス本大賞2019</div>
+              <div class="badge">全4回</div>
+              </div>
+            </div>
+            <a href="/atcl/contents/18/00094/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+          <li>
+           <article class="article article-summary-horizontal favorite-ranking series-ranking">
+            <div class="flex">
+             <figure><img src="/images/2019/common/loading_1_1.gif" width="60" height="80" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/xT_usreport_re.jpg?__scale=w:60,h:80&_sh=0650f0f70a" alt="マーケ＆テック 米国の実像" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">マーケ＆テック 米国の実像</div>
+              </div>
+            </div>
+            <a href="/atcl/contents/18/00109/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+          <li>
+           <article class="article article-summary-horizontal favorite-ranking series-ranking">
+            <div class="flex">
+             <figure><img src="/images/2019/common/loading_1_1.gif" width="60" height="80" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00290/xT_kaiho_a2.jpg?__scale=w:60,h:80&_sh=0be0f307e0" alt="消費者目線で検証！　週末解放区" class="lazyload" /></figure>
+             <div class="flex-item">
+              <div class="parent-title">消費者目線で検証！　週末解放区</div>
+              </div>
+            </div>
+            <a href="/atcl/contents/18/00290/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+          </ul>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         </div>
+       </section>
+       <section class="section section-favorite-ranking" id="LINK03" data-atlas-trackable="subcolumn">
+        <header class="section-header">
+         <h2>クリップランキング</h2>
+        </header>
+        <div class="section-body">
+         <ul class="list-counter">
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00304/00001/01_s.png?__scale=w:80,h:60&_sh=04d0d90860" alt="新人もベテランも　ゼロから学ぼう「新しいマーケティング」" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">超図解・新しいマーケティング～5分でわかる「博報堂の流儀」～</div>
+             <div class="article-title">新人もベテランも　ゼロから学ぼう「新しいマーケティング」<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00304/00001/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00937/00_s.jpg?__scale=w:80,h:60&_sh=0270c00e20" alt="グーグルが提唱「パルス消費」　スマホ世代の消費行動の新事実" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">グーグルが提唱「パルス消費」　スマホ世代の消費行動の新事実<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00937/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/00013/01_s.jpg?__scale=w:80,h:60&_sh=0970d00a30" alt="「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             <div class="article-title">「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00297/00002/top_s.jpg?__scale=w:80,h:60&_sh=0110fa0210" alt="「Z世代」女性の意外な物欲　「次から次に欲しいもの出てくる」48.4％" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Z世代10年後の中核層を攻略せよ</div>
+             <div class="article-title">「Z世代」女性の意外な物欲　「次から次に欲しいもの出てくる」48.4％<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00297/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00307/00002/01_s.jpg?__scale=w:80,h:60&_sh=0d006c0a50" alt="Withコロナ時代のフードテック5つの視点　「食の再定義」が始まる" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">世界を変える「イノベー食」2020</div>
+             <div class="article-title">Withコロナ時代のフードテック5つの視点　「食の再定義」が始まる<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00307/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         </ul>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         </div>
+       </section>
+       <section class="section section-electronic-edition" data-atlas-trackable="subcolumn">
+        <header class="section-header">
+         <h2>日経電子版ランキング</h2>
+        </header>
+        <div class="section-body">
+         <ul class="list-counter">
+  <li>
+           <article class="article article-summary-horizontal flex">
+            <div class="count">
+             <div class="article-title">従業員 業種越えシェア<i class="icon icon-outbound"></i></div>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGKKZO58770950T00C20A5MM8000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+    <li>
+           <article class="article article-summary-horizontal flex">
+            <div class="count">
+             <div class="article-title">（データの世紀）有害デマ 視聴1億回超<i class="icon icon-outbound"></i></div>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGKKZO58770340T00C20A5MM8000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+    <li>
+           <article class="article article-summary-horizontal flex">
+            <div class="count">
+             <div class="article-title">緊急事態延長、31日まで　きょう決定<i class="icon icon-outbound"></i></div>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGKKZO58770000T00C20A5MM8000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+    <li>
+           <article class="article article-summary-horizontal flex">
+            <div class="count">
+             <div class="article-title">首相「とことんやるしかない」　検証・緊急事態延長<i class="icon icon-outbound"></i></div>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGXMZO58773320T00C20A5NN1000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+    <li>
+           <article class="article article-summary-horizontal flex">
+            <div class="count">
+             <div class="article-title">政府のマスク配布でわかったすごい会社<i class="icon icon-outbound"></i></div>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGXMZO58748010R00C20A5X12000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+           </article>
+          </li>
+    </ul>
+        </div>
+       </section>
+       <!-- /section_electronic_edition -->
+<div class="ad ad-second-rectangle"><div id="div-track-ad-rectangle2"></div><div id="div-gpt-ad-rectangle2">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-rectangle2');
+ });
+</script>
+</div></div>
+<section class="section section-favorite-ranking favorite-tag-ranking" id="LINK04" data-atlas-trackable="subcolumn">
+        <header class="section-header">
+         <h2>タグランキング</h2>
+        </header>
+        <div class="section-body">
+        <p class="section-lead">いま多く検索されているタグと、そのタグの人気記事です。</p>
+        <p class="tag-ranking-title"><a class="tag tag-outline-theme" href="/atcl/contents/theme/?nxr_e=F0201%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A&i_cid=nbpnxr_ranking">新型コロナ</a>の人気記事</p>
+         <ul class="list-counter">
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/00013/01_s.jpg?__scale=w:80,h:60&_sh=0970d00a30" alt="「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             <div class="article-title">「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00079/00049/top_s.jpg?__scale=w:80,h:60&_sh=04c0ef04f0" alt="米国の老舗高級レストラン、新型コロナ対応で見事な業態転換" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">海外翻訳 Fast Company ピックアップ</div>
+             <div class="article-title">米国の老舗高級レストラン、新型コロナ対応で見事な業態転換<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00079/00049/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/00086/top_s.jpg?__scale=w:80,h:60&_sh=0a90af02b0" alt="フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">マーケ＆テック 米国の実像</div>
+             <div class="article-title">フェイスブック、グーグルがZoom対抗、ビデオ会議無料版で火花<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00298/00002/pront_02_top_s.jpg?__scale=w:80,h:60&_sh=0b10a10ed0" alt="プロントの自販機“1000べろ”立ち飲み　想定売り上げの2倍" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">日本でも進む“無人店舗”への動き</div>
+             <div class="article-title">プロントの自販機“1000べろ”立ち飲み　想定売り上げの2倍<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00298/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/casestudy/00012/00364/top_s.jpg?__scale=w:80,h:60&_sh=08f05d0420" alt="仕事のリモート化で伸びるビジネス　大穴は遠隔フィットネス" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">インサイド</div>
+             <div class="article-title">仕事のリモート化で伸びるビジネス　大穴は遠隔フィットネス<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/casestudy/00012/00364/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         </ul>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking" data-atlas-trackable="ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         </div>
+       </section>
+       <section class="section section-favorite-ranking" id="LINK05">
+        <header class="section-header">
+         <h2><em>マーケ担当</em>が読むランキング</h2>
+        </header>
+        <div class="section-body">
+         <p class="section-lead">企画・調査・マーケティング担当者が読んだ人気記事です。</p>
+         <ul class="list-counter">
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00297/00002/top_s.jpg?__scale=w:80,h:60&_sh=0110fa0210" alt="「Z世代」女性の意外な物欲　「次から次に欲しいもの出てくる」48.4％" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Z世代10年後の中核層を攻略せよ</div>
+             <div class="article-title">「Z世代」女性の意外な物欲　「次から次に欲しいもの出てくる」48.4％<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00297/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00282/00013/01_s.jpg?__scale=w:80,h:60&_sh=0970d00a30" alt="「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             <div class="article-title">「コロナ前」にはもう引き返せない　未来を読み解く「4つのY」<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00109/00084/top_s.jpg?__scale=w:80,h:60&_sh=0230e90560" alt="Zoomを使ったファンマーケに外食業界注目　若者の参加目立つ" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">マーケ＆テック 米国の実像</div>
+             <div class="article-title">Zoomを使ったファンマーケに外食業界注目　若者の参加目立つ<i class="icon icon-lock nxr_charge"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/18/00109/00084/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/feature/00025/00009/top_s.jpg?__scale=w:80,h:60&_sh=06101306c0" alt="テレワークの次は「モニタリング」　働き方改革は次の段階へ" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">緊急特集　新型コロナウイルスの脅威</div>
+             <div class="article-title">テレワークの次は「モニタリング」　働き方改革は次の段階へ<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/feature/00025/00009/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         <li class="show-more-item">
+          <article class="article article-summary-horizontal favorite-ranking">
+           <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/watch/00013/00937/00_s.jpg?__scale=w:80,h:60&_sh=0270c00e20" alt="グーグルが提唱「パルス消費」　スマホ世代の消費行動の新事実" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">Hot Topics</div>
+             <div class="article-title">グーグルが提唱「パルス消費」　スマホ世代の消費行動の新事実<i class="icon icon-lock nxr"></i></div>
+            </div>
+           </div>
+           <a href="/atcl/contents/watch/00013/00937/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+          </article>
+         </li>
+         </ul>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         </div>
+       </section>
+       <section class="section section-mypage-link">
+        <header class="section-header">
+         <h2>マイページ</h2>
+        </header>
+        <div class="section-body">
+         <p class="section-lead">フォローしたタグ・連載・著者の最新記事を一覧できます。</p>
+         <a href="/mypage/?i_cid=nbpnxr_right" class="btn btn-outline-primary inline" name=""><i class="icon icon-user"></i><span class="label-btn">マイページを確認する</span></a>
+        </div>
+       </section>
+       <!-- /section-mypage-link -->
+       <section class="section section-subsc-link">
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00307/xT_toku_inoshoku_cover_s.jpg?__scale=w:80,h:60,t:2&_sh=0ac08a0ef0" alt="世界を変える「イノベー食」2020" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">注目の特集</div>
+             <div class="article-title">世界を変える「イノベー食」2020<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/atcl/contents/18/00307/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00297/xT_Zsedai_cover_s.jpg?__scale=w:80,h:60,t:2&_sh=0c50d90880" alt="Z世代10年後の中核層を攻略せよ" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">注目の特集</div>
+             <div class="article-title">Z世代10年後の中核層を攻略せよ<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/atcl/contents/18/00297/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/info/podcast/19/xT_douga_pod_4-7_a.jpg?__scale=w:80,h:60,t:2&_sh=070600910f" alt="編集長がトレンド解説　週刊日経トレンディ＆クロストレンド" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">音声で聴くポッドキャスト番組</div>
+             <div class="article-title">編集長がトレンド解説　週刊日経トレンディ＆クロストレンド<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/info/podcast/19/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/seminar/19/00017/web_analyst_s.jpg?__scale=w:80,h:60,t:2&_sh=08b03d06a0" alt="「ウェブ解析士」の資格試験対策動画" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">今こそ動画で学んで資格を取得</div>
+             <div class="article-title">「ウェブ解析士」の資格試験対策動画<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/atcl/seminar/19/00017/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+<article class="article article-summary-horizontal">
+          <div class="flex">
+            <figure>
+             <img src="/images/2019/common/loading_1_1.gif" width="80" height="60" data-src="https://cdn-xtrend.nikkei.com/atcl/contents/18/00206/ppt_matome_s.png?__scale=w:80,h:60,t:2&_sh=0400f70640" alt="「未来を動かす顔認証の今」などパワポまとめ一覧" class="lazyload" /></figure>
+            <div class="flex-item">
+             <div class="parent-title">仕事で使えるパワポデータを提供</div>
+             <div class="article-title">「未来を動かす顔認証の今」などパワポまとめ一覧<i class="icon icon-lock FREE"></i>
+             </div>
+            </div>
+           </div>
+          <a href="/atcl/contents/18/00206/?i_cid=nbpnxr_right" class="block"></a>
+         </article>
+</section>
+</aside>
+      </div>
+    </div>
+   </div>
+  </main>
+  <div class="modal-snippet">
+ <div class="modal-content not-login not-login1" data-atlas-trackable="paywall">
+  <div class="centering">
+   <div class="caution caution-before-login cmn-paywall" data-atlas-trackable="paywall">
+
+ <p class="txt-caution"><b>このコンテンツは会員限定です。お申し込みをされますと続きをご覧いただけます。</b></p>
+ <div class="container-regist">
+
+ <div class="flex-center">
+    <div class="flex-item">
+    <div class="label">今すぐ続きを読む</div>
+     <a class="btn btn-regist" href="/navi/support/subsc.html#regist" data-link-param="ru" data-atlas-trackable="regist">会員登録（無料）</a>
+    </div>
+    <div class="flex-item">
+     <div class="label">会員の方はこちら</div>
+     <a class="btn btn-login" href="#" onclick="return(bpsso.liMov(0))" data-atlas-trackable="login">ログイン</a>
+    </div>
+   </div>
+
+ <p class="paywall-bnr"><a href="/navi/redirect/00039/?i_cid=nbpnxr_child_login"><img src="/images/2019/common/loading_1_1.gif" width="346" height="320" data-src="https://cdn-xtrend.nikkei.com/navi/redirect/00039/cp0501-346-320.jpg?__scale=w:346,h:320,t:1&_sh=060b70f201" alt="春割" title="春割" class="lazyload" /></a></p>
+   <p class="paywall-link"><a href="/navi/redirect/00040/?i_cid=nbpnxr_child_login"><i class="icon icon-right-arrow"></i>日経クロストレンドの会員特典とは？</a></p>
+   </div>
+
+</div>
+</div>
+ </div>
+</div>
+<div class="modal-snippet">
+ <div class="modal-content not-login not-login2" data-atlas-trackable="paywall">
+  <div class="centering">
+   <div class="caution caution-before-login cmn-paywall" data-atlas-trackable="paywall">
+
+ <p class="txt-caution"><b>このコンテンツは有料会員限定です。お申し込みをされますと続きをご覧いただけます。</b></p>
+ <div class="container-regist">
+
+ <div class="flex-center">
+    <div class="flex-item">
+    <div class="label">記事が読み放題に</div>
+     <a class="btn btn-regist" href="/navi/support/subsc.html#charge" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a>
+    </div>
+    <div class="flex-item">
+     <div class="label">会員の方はこちら</div>
+     <a class="btn btn-login" href="#" onclick="return(bpsso.liMov(1))" data-atlas-trackable="login">ログイン</a>
+    </div>
+   </div>
+
+ <p class="paywall-bnr"><a href="/navi/redirect/00039/?i_cid=nbpnxr_child_login"><img src="/images/2019/common/loading_1_1.gif" width="346" height="320" data-src="https://cdn-xtrend.nikkei.com/navi/redirect/00039/cp0501-346-320.jpg?__scale=w:346,h:320,t:1&_sh=060b70f201" alt="春割" title="春割" class="lazyload" /></a></p>
+   <p class="paywall-link"><a href="/navi/redirect/00040/?i_cid=nbpnxr_child_login"><i class="icon icon-right-arrow"></i>日経クロストレンドの会員特典とは？</a></p>
+   </div>
+
+</div>
+</div>
+ </div>
+</div>
+<div class="modal-snippet">
+ <div class="modal-content not-login not-login3" data-atlas-trackable="paywall">
+  <div class="centering">
+   <div class="caution caution-before-login cmn-paywall" data-atlas-trackable="paywall">
+
+ <p class="txt-caution"><b>このコンテンツはセミナー・プラス会員限定です。お申し込みをされますと続きをご覧いただけます。</b></p>
+ <div class="container-regist">
+
+ <div class="flex-center">
+    <div class="flex-item">
+    <div class="label">動画が見放題に</div>
+     <a class="btn btn-regist" href="/navi/support/subsc.html#charge" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a>
+    </div>
+    <div class="flex-item">
+     <div class="label">会員の方はこちら</div>
+     <a class="btn btn-login" href="#" onclick="return(bpsso.liMov(2))" data-atlas-trackable="login">ログイン</a>
+    </div>
+   </div>
+
+ <p class="paywall-bnr"><a href="/navi/redirect/00039/?i_cid=nbpnxr_child_login"><img src="/images/2019/common/loading_1_1.gif" width="346" height="320" data-src="https://cdn-xtrend.nikkei.com/navi/redirect/00039/cp0501-346-320.jpg?__scale=w:346,h:320,t:1&_sh=060b70f201" alt="春割" title="春割" class="lazyload" /></a></p>
+   <p class="paywall-link"><a href="/navi/redirect/00040/?i_cid=nbpnxr_child_login"><i class="icon icon-right-arrow"></i>日経クロストレンドの会員特典とは？</a></p>
+   </div>
+
+</div>
+</div>
+ </div>
+</div>
+<div class="modal-snippet">
+ <div class="modal-content modal-setting">
+  <div class="modal-title">設定</div>
+  <ul class="popupOption">
+   <li><a href="https://rhizome.nikkeibp.co.jp/profile/config/" data-link-type="rhizome">公開プロフィール編集</a></li>
+   <li><a href="https://rhizome.nikkeibp.co.jp/profile/config/#follow" data-link-type="rhizome">フォローしている著者・ユーザー・連載</a></li>
+   <li><a href="/mypage/follow/tag/">フォローしているタグ</a></li>
+   <li><a href="https://rhizome.nikkeibp.co.jp/profile/config/#notification" data-link-type="rhizome">通知の設定</a></li>
+   <li><a href="/navi/support/subsc.html" data-link-param="ru">契約状況の確認・変更</a></li>
+   <li><a href="/navi/support/lounge.html" data-link-param="ru">登録会員の情報変更・解約</a></li>
+  </ul>
+ </div>
+</div>
+<div class="modal">
+ <div class="modal-overlay"></div>
+ <div class="modal-inner">
+  <div class="modal-close"><i class="icon icon-and"></i></div>
+  <div class="modal-body"></div>
+ </div>
+</div>
+<nav class="nav-global-footer" data-atlas-trackable="footer">
+   <div class="inner">
+    <div class="flex-between">
+     <ul>
+      <li><a href="/?i_cid=nbpnxr_footer">トップ</a>
+       <ul class="list-indent">
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_marketing&i_cid=nbpnxr_footer">マーケ・消費</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_techdata&i_cid=nbpnxr_footer">技術・データ</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_innovation&i_cid=nbpnxr_footer">イノベーション</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_overseas&i_cid=nbpnxr_footer">中国・米国</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_footer">スキルアップ</a></li>
+       </ul>
+      </li>
+      <li><a href="/atcl/contents/new/?i_cid=nbpnxr_footer">新着</a></li>
+      <li><a href="/atcl/contents/?i_cid=nbpnxr_footer">特集・連載</a></li>
+      <li><a href="/atcl/contents/ranking/?i_cid=nbpnxr_footer">ランキング</a></li>
+      <li><a href="/atcl/contents/tag/?i_cid=nbpnxr_footer">タグ一覧・検索</a></li>
+     </ul>
+     <ul>
+      <li><a href="/mypage/?i_cid=nbpnxr_footer">マイページ</a></li>
+      <li><a href="/atcl/case/?i_cid=nbpnxr_footer">事例データベース</a></li>
+      <li><a href="/atcl/seminar/?i_cid=nbpnxr_footer">動画セミナー</a></li>
+      <li><a href="/atcl/calendar/future/?i_cid=nbpnxr_footer">未来消費カレンダー</a>
+       <ul class="list-indent">
+      <li><a href="/atcl/calendar/design/?i_cid=nbpnxr_footer">デザインイベントカレンダー</a></li>
+       </ul>
+      </li>
+      <li><a href="/atcl/viewer/?i_cid=nbpnxr_footer">デジタル雑誌</a>
+       <ul class="list-indent">
+        <li><a href="/atcl/viewer/nxr/?i_cid=nbpnxr_footer">日経クロストレンド</a></li>
+        <li><a href="/atcl/viewer/nd/?i_cid=nbpnxr_footer">日経デザイン</a></li>
+        <li><a href="/atcl/viewer/?i_cid=nbpnxr_footer">日経トレンディ</a></li>
+       </ul>
+      </li>
+     </ul>
+     <ul class="other">
+      <li><a href="/talk/?i_cid=nbpnxr_footer">TALK</a></li>
+      <li><a href="/event/?i_cid=nbpnxr_footer">イベント</a></li>
+      <li><a href="/authors/?i_cid=nbpnxr_footer">著者・アドバイザリーボード</a></li>
+      <li><a href="/navi/support/subsc.html?i_cid=nbpnxr_footer" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a></li>
+      <li><a onclick="$.openModal('.modal-setting', addModalClass('setting-style'))">設定</a></li>
+      <li>利用規約
+       <ul class="list-indent">
+        <li><a href="/navi/support/agreement.html?s_cid=nbpnxr_footer" target="_blank" rel="noopener">日経クロストレンド登録会員規約</a></li>
+        <li><a href="/navi/support/agreement_p.html?s_cid=nbpnxr_footer" target="_blank" rel="noopener">日経クロストレンド有料会員規約</a></li>
+        <li><a href="/navi/support/agreement_nid.html" target="_blank" rel="noopener">日経クロストレンド購読規約（日経ID決済）</a></li>
+       </ul>
+      </li>
+     </ul>
+     <ul class="xtrend">
+      <li><a href="/navi/support/about.html?i_cid=nbpnxr_footer">日経クロストレンドとは</a></li>
+      <li><a href="/info/18/00008/?i_cid=nbpnxr_footer">使い方ガイド</a></li>
+      <li><a href="/navi/support/faq.html?s_cid=nbpnxr_footer" target="_blank" rel="noopener">よくある質問・お問い合わせ</a></li>
+
+      <li class="relation">関連サイト
+       <ul class="list-indent">
+        <li><a href="https://www.nikkei.com/" target="_blank" rel="noopener">日経電子版</a></li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+    <div class="official-sns">
+     <span class="title-official-sns">公式アカウント</span>
+     <span><a href="https://twitter.com/NIKKEIxTREND/" target="_blank" rel="noopener" data-atlas-trackable="twitter"><img src="/images/2019/common/loading_1_1.gif" data-src="/images/2018/common/icon_twitter.png" alt="ツイッター" class="lazyload" ></a></span>
+     <span><a href="https://www.facebook.com/NIKKEIxTREND/" target="_blank" rel="noopener" data-atlas-trackable="facebook"><img src="/images/2019/common/loading_1_1.gif" data-src="/images/2018/common/icon_facebook.png" alt="フェイスブック" class="lazyload" ></a></span>
+    </div>
+    <p class="poweredBy">日経クロストレンドのコメント機能やフォロー機能はリゾームによって提供されています。</p>
+   </div>
+  </nav>
+  <footer class="footer">
+   <div class="inner">
+    <div class="flex-between">
+     <div class="logo-nikkeibp">
+     <a href="https://www.nikkeibp.co.jp/?s_cid=nbpnxr_footer"><img src="/images/2019/common/loading_1_1.gif" data-src="/images/bplogo/logo.svg" height="20" alt="日経BP" class="lazyload"></a>
+     </div>
+     <nav class="nav-external">
+      <ul>
+       <li><a href="http://www.nikkeibp.co.jp/?s_cid=nbpnxr_footer">会社案内</a>
+       </li>
+       <li><a href="/navi/support/bpprivacy.html?s_cid=nbpnxr_footer">個人情報について</a>
+       </li>
+       <li><a href="https://www.nikkeibp.co.jp/atcl/corporate/privacy/?s_cid=nbpnxr_footer#net">データ利用</a>
+       </li>
+       <li><a href="/navi/support/bpcopyright.html?s_cid=nbpnxr_footer">著作権について</a>
+       </li>
+       <li><a href="/navi/support/ad.html?s_cid=nbpnxr_footer">広告ガイド</a>
+       </li>
+       <li><a href="/navi/support/lounge_help.html?s_cid=nbpnxr_footer">日経ＩＤ利用案内</a>
+       </li>
+      </ul>
+     </nav>
+    </div>
+    <div class="copyright">Copyright &#169; 2020 Nikkei Business Publications, Inc. All Rights Reserved.</div>
+   </div>
+  </footer>
+ </div>
+ <script src="/js/bpcommon/jquery-3.x.min.js"></script>
+ <script src="/js/2019/lib/lazyload.min.js?20191122"></script>
+ <script src="/js/2019/lib/simplebar.js"></script>
+ <script src="/js/2019/lib/jquery.simple-popup.min.js"></script>
+ <script src="/js/2019/common/bpsso_trend.js?20190625"></script>
+ <script src="/js/2019/common/common.js?20200323"></script>
+ <script src="/js/2019/common/search.js?20200204"></script>
+ <script src="/js/2019/pc/searchResult.js?20200204"></script>
+ <script src="/js/2019/pc/all.js?20191122"></script>
+ <script src="/js/2019/pc/myData.js"></script>
+ <script src="/js/2019/common/showMore.js"></script>
+ <script src="/js/2019/common/utils.js"></script>
+ <script src="/js/2019/common/pds.js"></script>
+ <script src="/js/2019/lib/ofi.min.js"></script>
+ <script src="/js/rhizome/library.js"></script>
+ <script src="/js/rhizome/rhizome_nxr.js" defer></script>
+ 
+<!-- Start TagMnager（Common） -->
+<script src="/js/bpcommon/onetag/bpTrackVarsCommon.js">
+{
+"aggregateId":"nxr18-top-top",
+"articleId": "00008bjA",
+"articlePageTotalNo": "0",
+"authKind": "FREE",
+"authKindRaw": "FREE",
+"authorName": "",
+"authResult": "true",
+"category": "",
+"displayAuthorName": "",
+"checkedBy": "",
+"editor": "",
+"pageStatus": "bpindex",
+"pageTitle": "日経クロストレンド",
+"parentThemeName": "トップ",
+"parentTitle": "",
+"publishDate": "",
+"publishDateTime": "",
+"mediaId": "",
+"section": "",
+"subSite": "nxr",
+"tagName": "",
+"themeId": "nxr_thm_top",
+"themeName": "トップ",
+"tieupId": "",
+"repTieupId": "",
+}
+</script>
+<!-- End TagManager（Common） --><!-- Start TagMnager（Origin） -->
+<!-- Start javascript_global_object -->
+<script src="/js/bpcommon/onetag/bpTrackVars.js">
+{
+"channel":"NXR",
+"config.adobe.reportSuite": "nbpnxrprod",
+"config.atlas.service": "enable",
+"config.cx.siteId": "1131749418618869879",
+"config.fb.id": "151720335485995",
+"config.krux.siteId": "so1gv0fz5",
+"config.ga.trackingId": "",
+"tagName": "マーケティング戦略,市場創造,商品開発,デジタル,テクノロジー,日経 xTREND",
+"userStatus": "other",
+"searchTagName": "",
+}
+</script>
+<!-- End javascript_global_object -->
+<!-- End TagMnager（Origin） -->
+<!-- Start TagMnager（Common2） -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TDTQSZV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End TagMnager（Common2） -->
+<script type="text/javascript">
+        window.VWO = window.VWO || [];
+        window.VWO.push(['track.revenueConversion',"REPLACE_THIS_WITH_ACTUAL_REVENUE"]);
+</script> 
+ 
+</body>
+</html>

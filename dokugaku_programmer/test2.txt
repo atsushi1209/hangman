@@ -1,0 +1,284 @@
+<link rel="canonical" href="https://xtrend.nikkei.com/">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/2018/sp/favicon/web_clip.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/2018/favicon/favicon_32_32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/2018/favicon/favicon_16_16.png">
+<link rel="apple-touch-icon-precomposed" href="/images/2018/sp/favicon/web_clip.png" />
+<link rel="manifest" href="">
+<link rel="mask-icon" href="" color="#333333">
+<link rel="shortcut icon" href="/images/2018/favicon/icon.ico">
+<link rel="stylesheet" href="/css/2019/pc/all.css?20200406">
+        <li><a href="https://business.nikkei.com/?n_cid=nbpbpa_sbar" title="日経ビジネス電子版：リーダーのための経営・マネジメント情報">日経ビジネス電子版</a></li>
+        <li><a href="https://xtech.nikkei.com/?n_cid=nbpbpa_sbar" title="日経クロステック：技術×ビジネスの最前線を伝える">日経クロステック</a></li>
+        <li><a href="https://xtrend.nikkei.com/?n_cid=nbpbpa_sbar" title="日経クロストレンド：新市場を創る人のデジタル戦略メディア">日経クロストレンド</a></li>
+        <li><a href="https://medical.nikkeibp.co.jp/?n_cid=nbpbpa_sbar" title="日経メディカル：医師・医療従事者のための総合医療情報ポータル">日経メディカル</a></li>
+        <li><a href="https://aria.nikkei.com/?n_cid=nbpbpa_sbar" title="日経ARIA：大人の「働く・学ぶ・遊ぶ」を讃えるWEBメディア">日経ARIA</a></li>
+        <li><a href="https://dual.nikkei.com/?n_cid=nbpbpa_sbar" title="日経DUAL：働くママとパパを支えるWEBメディア">日経DUAL</a></li>
+        <li><a href="https://doors.nikkei.com/?n_cid=nbpbpa_sbar" title="日経doors：私だけの扉をみつけるWEBメディア">日経doors</a></li>
+        <li><a href="https://natgeo.nikkeibp.co.jp/?n_cid=nbpbpa_sbar" title="NATIONAL GEOGRAPHIC：地球の素顔をビジュアルに伝える">ナショナル ジオグラフィック</a></li>
+        <li><a href="https://www.nikkeibp.co.jp/?n_cid=nbpbpa_sbar" title="日経BP：その先を見る。その先を解く。">会社情報</a></li>
+      <li><a href="/navi/support/about.html?i_cid=nbpnxr_sbar">日経クロストレンドとは</a></li>
+    <li class="nav-login"><a href="#" class="btn btn-login" onclick="return(bpsso.liMov(0))" data-atlas-trackable="login">ログイン</a></li>
+     <li class="nav-regist"><a href="/navi/support/subsc.html#regist" data-link-param="ru" class="btn btn-regist" data-atlas-trackable="regist">お申し込み</a></li>
+         <a href="/navi/support/subsc.html#regist" data-link-param="ru" class="btnApplication btn btn-regist" data-atlas-trackable="regist">お申し込み</a>
+         <a href="#" class="btnLogin btn btn-login" onclick="return(bpsso.liMov(0))" data-atlas-trackable="login" >ログイン</a>
+        <li><a href="/atcl/contents/new/?i_cid=nbpnxr_hmenu"><i class="icon icon-new-arrival"></i>新着</a></li>
+        <li><a href="/atcl/contents/?i_cid=nbpnxr_hmenu"><i class="icon icon-special"></i>特集</a></li>
+        <li><a href="/atcl/contents/?i_cid=nbpnxr_hmenu"><i class="icon icon-articleSeries"></i>連載</a></li>
+        <li><a href="/atcl/contents/ranking/?i_cid=nbpnxr_hmenu"><i class="icon icon-ranking"></i>ランキング</a></li>
+        <li><a href="/sp/?i_cid=nbpnxr_hmenu"><i class="icon icon-specialTemplate"></i>特設</a></li>
+        <li><a href="/atcl/contents/tag/?i_cid=nbpnxr_hmenu"><i class="icon icon-tag-list-search"></i>タグ一覧・検索</a></li>
+        <li><a href="/atcl/case/?i_cid=nbpnxr_hmenu"><i class="icon icon-data-base"></i>事例データベース</a></li>
+        <li><a href="/atcl/calendar/future/?i_cid=nbpnxr_hmenu"><i class="icon icon-calendar"></i>未来カレンダー</a></li>
+        <li><a href="/atcl/seminar/?i_cid=nbpnxr_hmenu"><i class="icon icon-seminar"></i>動画セミナー</a></li>
+        <li><a href="/talk/?i_cid=nbpnxr_hmenu"><i class="icon icon-forum-comment"></i>TALK</a></li>
+        <li><a href="/info/podcast/19/?i_cid=nbpnxr_hmenu"><i class="icon icon-podcast"></i>ポッドキャスト</a></li>
+        <li><a href="/navi/support/leafYougo.html?i_cid=nbpnxr_hmenu"><i class="icon icon-glossary"></i>用語集</a></li>
+        <li class="row1"><a href="/event/?i_cid=nbpnxr_hmenu"><i class="icon icon-event"></i>イベント</a></li>
+          <li><a href="/atcl/viewer/?i_cid=nbpnxr_hmenu">デジタル雑誌</a></li>
+          <li><a href="/atcl/viewer/nxr/?i_cid=nbpnxr_hmenu">日経クロストレンド デジタル雑誌</a></li>
+          <li><a href="/atcl/viewer/nd/?i_cid=nbpnxr_hmenu">日経デザイン デジタル雑誌</a></li>
+          <li><a href="/atcl/viewer/?i_cid=nbpnxr_hmenu">日経トレンディ デジタル雑誌</a></li>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_marketing&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケ・消費">マーケ・消費</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_techdata&i_cid=nbpnxr_header" data-atlas-trackable="&#035;技術・データ">技術・データ</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_innovation&i_cid=nbpnxr_header" data-atlas-trackable="&#035;イノベーション">イノベーション</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_overseas&i_cid=nbpnxr_header" data-atlas-trackable="&#035;中国・米国">中国・米国</a>
+        <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_header" data-atlas-trackable="&#035;スキルアップ">スキルアップ</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0201新型コロナ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;新型コロナ">新型コロナ</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0241キャッシュレス&i_cid=nbpnxr_header" data-atlas-trackable="&#035;キャッシュレス">キャッシュレス</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0261MaaS&i_cid=nbpnxr_header" data-atlas-trackable="&#035;MaaS">MaaS</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0251サブスクリプション&i_cid=nbpnxr_header" data-atlas-trackable="&#035;サブスクリプション">サブスクリプション</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F02115G&i_cid=nbpnxr_header" data-atlas-trackable="&#035;5G">5G</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=C0171コンビニ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;コンビニ">コンビニ</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0041マーケティング戦略&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケティング戦略">マーケティング戦略</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0111デザイン&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デザイン">デザイン</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0031商品開発&i_cid=nbpnxr_header" data-atlas-trackable="&#035;商品開発">商品開発</a>
+        <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0121デジタルマーケティング&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デジタルマーケティング">デジタルマーケティング</a>
+        <footer class="section-footer"><a href="/atcl/contents/tag/?i_cid=nbpnxr_header"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+     <h1><a href="/?i_cid=nbpnxr_header" data-atlas-trackable="logo-nxr"><img src="/images/2019/common/logoNxr.svg" alt="新市場を創る人のデジタル戦略メディア 日経クロストレンド"></a></h1>
+        <li class=""><a href="/atcl/contents/?i_cid=nbpnxr_header" data-atlas-trackable="pickupSeries"><i class="icon icon-special"></i><span>特集・連載</span></a></li>
+<li class=""><a href="/atcl/case/?i_cid=nbpnxr_header" data-atlas-trackable="database"><i class="icon icon-data-base"></i><span>データベース</span></a></li>
+<li class=""><a href="/atcl/seminar/?i_cid=nbpnxr_header" data-atlas-trackable="seminar"><i class="icon icon-seminar"></i><span>セミナー</span></a></li>
+<li class=""><a href="/atcl/calendar/future/?i_cid=nbpnxr_header" data-atlas-trackable="calendar"><i class="icon icon-calendar"></i><span>カレンダー</span></a></li><li class=""><a href="/info/18/00008/?i_cid=nbpnxr_header"><i class="icon icon-guide"></i><span>使い方</span></a></li>
+・<a href="https://info.nikkei.com/nxr/subscription/?i_cid=nbpnxr_sied_infoa0323#charge">お得な春割5/14まで</a>　 ・<a href="https://business.nikkei.com/covid19/?i_cid=nbp_nxr">特設サイト「コロナショックに臨む」</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_marketing&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケ・消費">マーケ・消費</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_techdata&i_cid=nbpnxr_header" data-atlas-trackable="&#035;技術・データ">技術・データ</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_innovation&i_cid=nbpnxr_header" data-atlas-trackable="&#035;イノベーション">イノベーション</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_overseas&i_cid=nbpnxr_header" data-atlas-trackable="&#035;中国・米国">中国・米国</a>
+      <a class="tag tag-outline-theme tag-l" href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_header" data-atlas-trackable="&#035;スキルアップ">スキルアップ</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0201新型コロナ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;新型コロナ">新型コロナ</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0241キャッシュレス&i_cid=nbpnxr_header" data-atlas-trackable="&#035;キャッシュレス">キャッシュレス</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0261MaaS&i_cid=nbpnxr_header" data-atlas-trackable="&#035;MaaS">MaaS</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0251サブスクリプション&i_cid=nbpnxr_header" data-atlas-trackable="&#035;サブスクリプション">サブスクリプション</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F02115G&i_cid=nbpnxr_header" data-atlas-trackable="&#035;5G">5G</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=C0171コンビニ&i_cid=nbpnxr_header" data-atlas-trackable="&#035;コンビニ">コンビニ</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0041マーケティング戦略&i_cid=nbpnxr_header" data-atlas-trackable="&#035;マーケティング戦略">マーケティング戦略</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0111デザイン&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デザイン">デザイン</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=B0031商品開発&i_cid=nbpnxr_header" data-atlas-trackable="&#035;商品開発">商品開発</a>
+      <a class="tag tag-outline-theme tag-m" href="/atcl/contents/theme/?nxr_e=F0121デジタルマーケティング&i_cid=nbpnxr_header" data-atlas-trackable="&#035;デジタルマーケティング">デジタルマーケティング</a>
+       <a class="more-link" href="/atcl/contents/tag/?i_cid=nbpnxr_header"><i class="icon icon-right-arrow"></i>一覧</a>
+          <a href="/atcl/contents/18/00259/00001/?i_cid=nbpnxr_top_rec" class="block"></a>
+          <a href="/atcl/contents/18/00298/00002/?i_cid=nbpnxr_top_rec" class="block"></a>
+          <a href="/atcl/contents/18/00299/00001/?i_cid=nbpnxr_top_rec" class="block"></a>
+            <a href="/atcl/contents/casestudy/00012/00307/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00298/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00273/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00273/00002/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00284/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00264/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00206/00016/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/seminar/19/00005/041800001/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00304/00001/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00286/00006/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00293/00002/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00304/00003/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/feature/00036/00014/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00286/00005/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00109/00084/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00286/00007/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00286/00003/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/watch/00013/00983/?i_cid=nbpnxr_top_new" class="block"></a>
+            <a href="/atcl/contents/18/00206/00013/?i_cid=nbpnxr_top_new" class="block"></a>
+<footer class="section-footer"><a href="/atcl/contents/new/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_top_rec" class="block"></a>
+          <a href="/info/notice/?n_cid=nbpnxr_top" class="block"></a>
+          <p class="section-feature-link"><a href="/navi/support/about.html?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>日経クロストレンドとは</a></p>
+         <div claas="flex-item"><a class="btn btn-regist" href="/navi/support/subsc.html?n_cid=nbpnxr_top" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a></div>
+             <a href="/atcl/contents/18/00307/00002/?i_cid=nbpnxr_cxense" class="block" data-atlas-trackable="recommend"></a>
+             <a href="/atcl/contents/18/00206/00016/?i_cid=nbpnxr_cxense" class="block" data-atlas-trackable="recommend"></a>
+          <footer class="section-footer"><a href="/atcl/contents/recommend/?i_cid=nbpnxr_cxense"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            <a href="/atcl/contents/18/00307/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/18/00206/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/18/00297/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/18/00282/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/watch/00013/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/18/00094/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/18/00109/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/18/00290/?i_cid=nbpnxr_top" class="block"></a>
+        <footer class="section-footer"><a href="/atcl/contents/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            <a href="/atcl/contents/18/00293/00003/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/contents/18/00105/00052/?i_cid=nbpnxr_top" class="block"></a>
+        <footer class="section-footer"><a href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA"><span class="tag tag-outline-theme tag-m">MaaS</span><i>×</i><span class="tag tag-outline-theme tag-m">事業開発</span>の事例</a>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+             <a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA" class="block"></a>
+        <footer class="section-footer"><a href="/atcl/search/?i_cid=nbpnxr_top&acd_open_flg=1&nxr_e=F0261MaaS,B0021%E4%BA%8B%E6%A5%AD%E9%96%8B%E7%99%BA"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            <a href="/atcl/seminar/19/00005/041800001/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/seminar/19/00017/00001/?i_cid=nbpnxr_top" class="block"></a>
+        <footer class="section-footer"><a href="/atcl/seminar/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+              <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor current">2020</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2021</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2022</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2023</a></p>
+                <p><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">2024</a></p>
+              <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor current">5</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">6</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">7</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">8</a></div>
+                <div class="num-month"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="calendar-anchor">9</a></div>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+                <a href="/atcl/calendar/future/?i_cid=nbpnxr_top" class="block"></a>
+        <footer class="section-footer"><a href="/atcl/calendar/future/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            <a href="/atcl/viewer/nxr/18/00034/?i_cid=nbpnxr_top" class="block" target="_blank"></a>
+            <a href="/atcl/viewer/nd/18/00063/?i_cid=nbpnxr_top" class="block" target="_blank"></a>
+            <a href="/atcl/viewer/tre/18/00050/?i_cid=nbpnxr_top" class="block" target="_blank"></a>
+        <footer class="section-footer"><a href="/atcl/viewer/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            <a href="/atcl/talk/19/00001/00013/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/info/18/00006/00053/?i_cid=nbpnxr_top" class="block"></a>
+            <a href="/atcl/talk/19/00001/00011/?i_cid=nbpnxr_top" class="block"></a>
+        <footer class="section-footer"><a href="/event/?i_cid=nbpnxr_top"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+          <a href="/info/18/00006/00054/?i_cid=nbpnxr_right" class="block"></a>
+          <a href="/atcl/talk/19/00001/00013/?i_cid=nbpnxr_right" class="block"></a>
+          <a href="/info/18/00006/00049/?i_cid=nbpnxr_right" class="block"></a>
+          <a href="/navi/redirect/00041/?n_cid=nbpnxr_right" target="_blank" rel="noopener" class="block"></a>
+          <li><a href="#panel000">現在</a></li>
+          <li><a href="#panel001">昨日</a></li>
+          <li><a href="#panel002">一週間</a></li>
+           <a href="/atcl/contents/18/00290/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00290/00004/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00978/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00983/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00312/00001/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00079/00054/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00982/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00304/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00977/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00290/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00290/00004/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00978/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00983/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00304/00003/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00312/00001/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00982/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/casestudy/00012/00377/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00307/00005/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/info/09/00070/033100005/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00978/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00307/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/trn/pickup/15/1003590/042100888/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/casestudy/00012/00377/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/feature/00025/00009/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00112/00034/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00960/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+        <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking" data-atlas-trackable="ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            <a href="/atcl/contents/18/00282/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+            <a href="/atcl/contents/watch/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+            <a href="/atcl/contents/18/00094/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+            <a href="/atcl/contents/18/00109/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+            <a href="/atcl/contents/18/00290/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+           <a href="/atcl/contents/18/00304/00001/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00937/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00297/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00307/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGKKZO58770950T00C20A5MM8000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGKKZO58770340T00C20A5MM8000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGKKZO58770000T00C20A5MM8000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGXMZO58773320T00C20A5NN1000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+            </div><i class="icon icon-lock"></i><a href="https://www.nikkei.com/article/DGXMZO58748010R00C20A5X12000/?n_cid=BPRDS001" target="_blank" rel="noopener" class="block" data-atlas-trackable="ranking"></a>
+        <p class="tag-ranking-title"><a class="tag tag-outline-theme" href="/atcl/contents/theme/?nxr_e=F0201%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A&i_cid=nbpnxr_ranking">新型コロナ</a>の人気記事</p>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00079/00049/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00109/00086/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00298/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/casestudy/00012/00364/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking" data-atlas-trackable="ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+           <a href="/atcl/contents/18/00297/00002/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00282/00013/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/18/00109/00084/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/feature/00025/00009/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+           <a href="/atcl/contents/watch/00013/00937/?i_cid=nbpnxr_ranking" class="block" data-atlas-trackable="ranking"></a>
+         <footer class="section-footer"><a href="/atcl/contents/ranking/?i_cid=nbpnxr_ranking"><i class="icon icon-right-arrow"></i>もっと見る</a></footer>
+         <a href="/mypage/?i_cid=nbpnxr_right" class="btn btn-outline-primary inline" name=""><i class="icon icon-user"></i><span class="label-btn">マイページを確認する</span></a>
+          <a href="/atcl/contents/18/00307/?i_cid=nbpnxr_right" class="block"></a>
+          <a href="/atcl/contents/18/00297/?i_cid=nbpnxr_right" class="block"></a>
+          <a href="/info/podcast/19/?i_cid=nbpnxr_right" class="block"></a>
+          <a href="/atcl/seminar/19/00017/?i_cid=nbpnxr_right" class="block"></a>
+          <a href="/atcl/contents/18/00206/?i_cid=nbpnxr_right" class="block"></a>
+     <a class="btn btn-regist" href="/navi/support/subsc.html#regist" data-link-param="ru" data-atlas-trackable="regist">会員登録（無料）</a>
+     <a class="btn btn-login" href="#" onclick="return(bpsso.liMov(0))" data-atlas-trackable="login">ログイン</a>
+ <p class="paywall-bnr"><a href="/navi/redirect/00039/?i_cid=nbpnxr_child_login"><img src="/images/2019/common/loading_1_1.gif" width="346" height="320" data-src="https://cdn-xtrend.nikkei.com/navi/redirect/00039/cp0501-346-320.jpg?__scale=w:346,h:320,t:1&_sh=060b70f201" alt="春割" title="春割" class="lazyload" /></a></p>
+   <p class="paywall-link"><a href="/navi/redirect/00040/?i_cid=nbpnxr_child_login"><i class="icon icon-right-arrow"></i>日経クロストレンドの会員特典とは？</a></p>
+     <a class="btn btn-regist" href="/navi/support/subsc.html#charge" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a>
+     <a class="btn btn-login" href="#" onclick="return(bpsso.liMov(1))" data-atlas-trackable="login">ログイン</a>
+ <p class="paywall-bnr"><a href="/navi/redirect/00039/?i_cid=nbpnxr_child_login"><img src="/images/2019/common/loading_1_1.gif" width="346" height="320" data-src="https://cdn-xtrend.nikkei.com/navi/redirect/00039/cp0501-346-320.jpg?__scale=w:346,h:320,t:1&_sh=060b70f201" alt="春割" title="春割" class="lazyload" /></a></p>
+   <p class="paywall-link"><a href="/navi/redirect/00040/?i_cid=nbpnxr_child_login"><i class="icon icon-right-arrow"></i>日経クロストレンドの会員特典とは？</a></p>
+     <a class="btn btn-regist" href="/navi/support/subsc.html#charge" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a>
+     <a class="btn btn-login" href="#" onclick="return(bpsso.liMov(2))" data-atlas-trackable="login">ログイン</a>
+ <p class="paywall-bnr"><a href="/navi/redirect/00039/?i_cid=nbpnxr_child_login"><img src="/images/2019/common/loading_1_1.gif" width="346" height="320" data-src="https://cdn-xtrend.nikkei.com/navi/redirect/00039/cp0501-346-320.jpg?__scale=w:346,h:320,t:1&_sh=060b70f201" alt="春割" title="春割" class="lazyload" /></a></p>
+   <p class="paywall-link"><a href="/navi/redirect/00040/?i_cid=nbpnxr_child_login"><i class="icon icon-right-arrow"></i>日経クロストレンドの会員特典とは？</a></p>
+   <li><a href="https://rhizome.nikkeibp.co.jp/profile/config/" data-link-type="rhizome">公開プロフィール編集</a></li>
+   <li><a href="https://rhizome.nikkeibp.co.jp/profile/config/#follow" data-link-type="rhizome">フォローしている著者・ユーザー・連載</a></li>
+   <li><a href="/mypage/follow/tag/">フォローしているタグ</a></li>
+   <li><a href="https://rhizome.nikkeibp.co.jp/profile/config/#notification" data-link-type="rhizome">通知の設定</a></li>
+   <li><a href="/navi/support/subsc.html" data-link-param="ru">契約状況の確認・変更</a></li>
+   <li><a href="/navi/support/lounge.html" data-link-param="ru">登録会員の情報変更・解約</a></li>
+      <li><a href="/?i_cid=nbpnxr_footer">トップ</a>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_marketing&i_cid=nbpnxr_footer">マーケ・消費</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_techdata&i_cid=nbpnxr_footer">技術・データ</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_innovation&i_cid=nbpnxr_footer">イノベーション</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_overseas&i_cid=nbpnxr_footer">中国・米国</a></li>
+        <li><a href="/atcl/contents/theme/?nxr_t=nxr_thm_skillup&i_cid=nbpnxr_footer">スキルアップ</a></li>
+      <li><a href="/atcl/contents/new/?i_cid=nbpnxr_footer">新着</a></li>
+      <li><a href="/atcl/contents/?i_cid=nbpnxr_footer">特集・連載</a></li>
+      <li><a href="/atcl/contents/ranking/?i_cid=nbpnxr_footer">ランキング</a></li>
+      <li><a href="/atcl/contents/tag/?i_cid=nbpnxr_footer">タグ一覧・検索</a></li>
+      <li><a href="/mypage/?i_cid=nbpnxr_footer">マイページ</a></li>
+      <li><a href="/atcl/case/?i_cid=nbpnxr_footer">事例データベース</a></li>
+      <li><a href="/atcl/seminar/?i_cid=nbpnxr_footer">動画セミナー</a></li>
+      <li><a href="/atcl/calendar/future/?i_cid=nbpnxr_footer">未来消費カレンダー</a>
+      <li><a href="/atcl/calendar/design/?i_cid=nbpnxr_footer">デザインイベントカレンダー</a></li>
+      <li><a href="/atcl/viewer/?i_cid=nbpnxr_footer">デジタル雑誌</a>
+        <li><a href="/atcl/viewer/nxr/?i_cid=nbpnxr_footer">日経クロストレンド</a></li>
+        <li><a href="/atcl/viewer/nd/?i_cid=nbpnxr_footer">日経デザイン</a></li>
+        <li><a href="/atcl/viewer/?i_cid=nbpnxr_footer">日経トレンディ</a></li>
+      <li><a href="/talk/?i_cid=nbpnxr_footer">TALK</a></li>
+      <li><a href="/event/?i_cid=nbpnxr_footer">イベント</a></li>
+      <li><a href="/authors/?i_cid=nbpnxr_footer">著者・アドバイザリーボード</a></li>
+      <li><a href="/navi/support/subsc.html?i_cid=nbpnxr_footer" data-link-param="ru" data-atlas-trackable="regist">お申し込み</a></li>
+        <li><a href="/navi/support/agreement.html?s_cid=nbpnxr_footer" target="_blank" rel="noopener">日経クロストレンド登録会員規約</a></li>
+        <li><a href="/navi/support/agreement_p.html?s_cid=nbpnxr_footer" target="_blank" rel="noopener">日経クロストレンド有料会員規約</a></li>
+        <li><a href="/navi/support/agreement_nid.html" target="_blank" rel="noopener">日経クロストレンド購読規約（日経ID決済）</a></li>
+      <li><a href="/navi/support/about.html?i_cid=nbpnxr_footer">日経クロストレンドとは</a></li>
+      <li><a href="/info/18/00008/?i_cid=nbpnxr_footer">使い方ガイド</a></li>
+      <li><a href="/navi/support/faq.html?s_cid=nbpnxr_footer" target="_blank" rel="noopener">よくある質問・お問い合わせ</a></li>
+        <li><a href="https://www.nikkei.com/" target="_blank" rel="noopener">日経電子版</a></li>
+     <span><a href="https://twitter.com/NIKKEIxTREND/" target="_blank" rel="noopener" data-atlas-trackable="twitter"><img src="/images/2019/common/loading_1_1.gif" data-src="/images/2018/common/icon_twitter.png" alt="ツイッター" class="lazyload" ></a></span>
+     <span><a href="https://www.facebook.com/NIKKEIxTREND/" target="_blank" rel="noopener" data-atlas-trackable="facebook"><img src="/images/2019/common/loading_1_1.gif" data-src="/images/2018/common/icon_facebook.png" alt="フェイスブック" class="lazyload" ></a></span>
+     <a href="https://www.nikkeibp.co.jp/?s_cid=nbpnxr_footer"><img src="/images/2019/common/loading_1_1.gif" data-src="/images/bplogo/logo.svg" height="20" alt="日経BP" class="lazyload"></a>
+       <li><a href="http://www.nikkeibp.co.jp/?s_cid=nbpnxr_footer">会社案内</a>
+       <li><a href="/navi/support/bpprivacy.html?s_cid=nbpnxr_footer">個人情報について</a>
+       <li><a href="https://www.nikkeibp.co.jp/atcl/corporate/privacy/?s_cid=nbpnxr_footer#net">データ利用</a>
+       <li><a href="/navi/support/bpcopyright.html?s_cid=nbpnxr_footer">著作権について</a>
+       <li><a href="/navi/support/ad.html?s_cid=nbpnxr_footer">広告ガイド</a>
+       <li><a href="/navi/support/lounge_help.html?s_cid=nbpnxr_footer">日経ＩＤ利用案内</a>
